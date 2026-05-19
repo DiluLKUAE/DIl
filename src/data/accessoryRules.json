@@ -1,0 +1,4102 @@
+[
+  {
+    "model": "BP-50M65",
+    "accessory": "MX-PN16B",
+    "accessory_name": "Punch Module 2/3 Holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN16B requires either BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50M65",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50M65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50C26",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C26",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C26",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C26",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C31",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C31",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C31",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C31",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C36",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C36",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C36",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C36",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C26",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50C31",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50C36",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50C45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50C55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51C26",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51C26",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51C31",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51C31",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51C36",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51C36",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51C45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51C45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51C55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51C55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51C65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51C65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-60C31",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C31",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C31",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C31",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C31",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C31",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-60C36",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C36",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C36",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C36",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C36",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C36",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-60C45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C45",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-60C45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-61C31",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C31",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C31",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C31",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C31",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C31",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-61C36",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C36",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C36",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C36",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C36",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-61C36",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-70C45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C45",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-70C55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C55",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-70C65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C65",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70C65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-71C45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C45",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-71C55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C55",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-71C65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C65",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71C65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50M31",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M31",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M31",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M31",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M31",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50M36",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M36",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M36",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M36",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M36",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50M45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50M55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-50M65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-50M65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M31",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M31",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M31",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M31",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M31",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51M36",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M36",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M36",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M36",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M36",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51M45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51M55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-51M65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-51M65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-70M45",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M45",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M45",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M45",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M45",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M45",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-70M55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M55",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-70M65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M65",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-70M65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-71M55",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M55",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M55",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M55",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M55",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M55",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "BP-71M65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle Stitch Finisher",
+    "rule_type": "requires_any",
+    "required_options": [],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M65",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large Capacity Tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, BP-DE15."
+  },
+  {
+    "model": "BP-71M65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding Unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  },
+  {
+    "model": "ALL",
+    "accessory": "MX-SCX1",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN17"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN17"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-SCX1 staple cartridge requires BP-FN17."
+  },
+  {
+    "model": "ALL",
+    "accessory": "AR-SC2",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN14"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN14"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "AR-SC2 staple cartridge requires BP-FN14."
+  },
+  {
+    "model": "ALL",
+    "accessory": "BP-SC10",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN18"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN18"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-SC10 staple cartridge requires BP-FN18."
+  },
+  {
+    "model": "ALL",
+    "accessory": "MX-SC11",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "MX-FN34",
+      "MX-FN35"
+    ],
+    "requirement_groups": [
+      [
+        "MX-FN34",
+        "MX-FN35"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-SC11 staple cartridge requires MX-FN34 or MX-FN35."
+  },
+  {
+    "model": "ALL",
+    "accessory": "MX-SC12",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "MX-FN35"
+    ],
+    "requirement_groups": [
+      [
+        "MX-FN35"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-SC12 staple cartridge requires MX-FN35 saddle stitch finisher."
+  },
+  {
+    "model": "ALL",
+    "accessory": "MX-SCX2",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "MX-FN21",
+      "MX-FN22"
+    ],
+    "requirement_groups": [
+      [
+        "MX-FN21",
+        "MX-FN22"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-SCX2 staple cartridge requires MX-FN21 or MX-FN22."
+  },
+  {
+    "model": "ALL",
+    "accessory": "BP-SC11",
+    "accessory_name": "Staple cartridge",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN20",
+      "BP-FN21"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN20",
+        "BP-FN21"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-SC11 staple cartridge requires BP-FN20 or BP-FN21."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "BP-FN13",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10",
+      "BP-FD10",
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN13 requires BP-RB10 or BP-FD10, and one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "BP-FN14",
+    "accessory_name": "Saddle stitch finisher",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10",
+      "BP-FD10",
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN14 requires BP-RB10 or BP-FD10, and one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "BP-FN15",
+    "accessory_name": "Finisher",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10",
+      "BP-FD10",
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN15 requires BP-RB10 or BP-FD10, and one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "BP-FN16",
+    "accessory_name": "Saddle stitch finisher",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10",
+      "BP-FD10",
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "requirement_groups": [
+      [
+        "BP-RB10",
+        "BP-FD10"
+      ],
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-FN16 requires BP-RB10 or BP-FD10, and one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN14B",
+    "accessory_name": "Punch module - 2/3 holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN13",
+      "BP-FN14"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN13",
+        "BP-FN14"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN14B requires BP-FN13 or BP-FN14."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN14C",
+    "accessory_name": "Punch module - 2/4 holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN13",
+      "BP-FN14"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN13",
+        "BP-FN14"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN14C requires BP-FN13 or BP-FN14."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN14D",
+    "accessory_name": "Punch module - 4 wide holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN13",
+      "BP-FN14"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN13",
+        "BP-FN14"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN14D requires BP-FN13 or BP-FN14."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN15B",
+    "accessory_name": "Punch module - 2/3 holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN15",
+        "BP-FN16"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN15B requires BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN15C",
+    "accessory_name": "Punch module - 2/4 holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN15",
+        "BP-FN16"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN15C requires BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN15D",
+    "accessory_name": "Punch module - 4 wide holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN15",
+        "BP-FN16"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN15D requires BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN16B",
+    "accessory_name": "Punch module - 2/3 holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN15",
+        "BP-FN16"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN16B requires BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN16C",
+    "accessory_name": "Punch module - 2/4 holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN15",
+        "BP-FN16"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN16C requires BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "MX-PN16D",
+    "accessory_name": "Punch module - 4 wide holes",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-FN15",
+      "BP-FN16"
+    ],
+    "requirement_groups": [
+      [
+        "BP-FN15",
+        "BP-FN16"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "MX-PN16D requires BP-FN15 or BP-FN16."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "BP-LC10",
+    "accessory_name": "Large capacity tray",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "requirement_groups": [
+      [
+        "BP-DE12",
+        "BP-DE13",
+        "BP-DE14",
+        "BP-DE15"
+      ]
+    ],
+    "incompatible_with": [],
+    "auto_select": false,
+    "message": "BP-LC10 requires one of BP-DE12, BP-DE13, BP-DE14, or BP-DE15."
+  },
+  {
+    "model": "BP-50C65",
+    "accessory": "BP-FD10",
+    "accessory_name": "Folding unit",
+    "rule_type": "requires_any",
+    "required_options": [
+      "BP-RB10"
+    ],
+    "requirement_groups": [
+      [
+        "BP-RB10"
+      ]
+    ],
+    "incompatible_with": [
+      "BP-FN12"
+    ],
+    "auto_select": true,
+    "message": "BP-FD10 requires BP-RB10 and cannot be installed with BP-FN12."
+  }
+]

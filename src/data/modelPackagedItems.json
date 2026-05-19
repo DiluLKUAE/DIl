@@ -1,0 +1,62 @@
+[
+  {
+    "model": "BP-70C45",
+    "item": "Toner",
+    "color": "BK",
+    "status": "Not bundled"
+  },
+  {
+    "model": "BP-70C45",
+    "item": "Toner",
+    "color": "CL",
+    "status": "Not bundled"
+  },
+  {
+    "model": "BP-70C45",
+    "item": "Developer",
+    "color": "BK",
+    "status": "Pre-installed"
+  },
+  {
+    "model": "BP-70C45",
+    "item": "Developer",
+    "color": "CL",
+    "status": "Pre-installed"
+  },
+  {
+    "model": "BP-70C45",
+    "item": "Drum",
+    "color": "BK/CL",
+    "status": "Installed"
+  },
+  {
+    "model": "BP-70C55",
+    "item": "Toner",
+    "color": "BK",
+    "status": "Not bundled"
+  },
+  {
+    "model": "BP-70C55",
+    "item": "Toner",
+    "color": "CL",
+    "status": "Not bundled"
+  },
+  {
+    "model": "BP-70C55",
+    "item": "Developer",
+    "color": "BK",
+    "status": "Pre-installed"
+  },
+  {
+    "model": "BP-70C55",
+    "item": "Developer",
+    "color": "CL",
+    "status": "Pre-installed"
+  },
+  {
+    "model": "BP-70C55",
+    "item": "Drum",
+    "color": "BK/CL",
+    "status": "Installed"
+  }
+]

@@ -1,0 +1,2610 @@
+[
+  {
+    "id": "BP-DE12",
+    "name": "Stand with 550-Sheet Paper Drawer",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DE13",
+    "name": "Stand with 2 x 550-Sheet Paper Drawers",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DE14",
+    "name": "Stand with 3 x 550-Sheet Paper Drawers",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DE15",
+    "name": "Stand with 550 + 2100-Sheet Paper Drawer",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-CS14",
+    "name": "500-sheet paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DE16",
+    "name": "Stand/2x500-sheet paper drawer",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS16",
+    "name": "High stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS17",
+    "name": "Low stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-FN15",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FN16",
+    "name": "Saddle stitch finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "MX-PN16B",
+    "name": "Punch module - 2/3 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "BP-LC10",
+    "name": "Large capacity tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-RB10",
+    "name": "Paper pass unit",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "BP-FD10",
+    "name": "Folding Unit",
+    "category": "Folding Units"
+  },
+  {
+    "id": "BP-EB10",
+    "name": "Wireless connection adaptor",
+    "category": "Connectivity / Expansion",
+    "remarks": "For South Africa, UAE, Morocco."
+  },
+  {
+    "id": "BP-PK10L",
+    "name": "PS3 expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-FX15",
+    "name": "Fax Expansion Kit",
+    "category": "Fax / Software Kits"
+  },
+  {
+    "id": "BP-FR12U",
+    "name": "Data Security Kit",
+    "category": "Storage / Security"
+  },
+  {
+    "id": "BP-GT70BA",
+    "name": "Black Toner Cartridge",
+    "category": "Consumables"
+  },
+  {
+    "id": "BP-FT70BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "yield_life": "40k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage."
+  },
+  {
+    "id": "BP-FT70BB",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "yield_life": "20k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage. N/A for Agency except for Taiwan."
+  },
+  {
+    "id": "BP-FT70CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "yield_life": "24k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage."
+  },
+  {
+    "id": "BP-FT70CB",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "yield_life": "12k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage. N/A for Agency except for Taiwan."
+  },
+  {
+    "id": "BP-FT70MA",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "yield_life": "24k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage."
+  },
+  {
+    "id": "BP-FT70MB",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "yield_life": "12k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage. N/A for Agency except for Taiwan."
+  },
+  {
+    "id": "BP-FT70YA",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "yield_life": "24k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage."
+  },
+  {
+    "id": "BP-FT70YB",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "yield_life": "12k",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage. N/A for Agency except for Taiwan."
+  },
+  {
+    "id": "BP-FV70BA",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "yield_life": "1,800k",
+    "min_order_qty": 10,
+    "remarks": "Referred life. Developer BK is pre-installed."
+  },
+  {
+    "id": "BP-FV70SA",
+    "name": "Developer (Cyan/Magenta/Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "CMY",
+    "yield_life": "1,800k",
+    "min_order_qty": 10,
+    "remarks": "Referred life. Developer CL is pre-installed."
+  },
+  {
+    "id": "BP-DR70SA",
+    "name": "Drum",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "color": "BK/CL",
+    "yield_life": "1,500k rotations / 310k(BK), 249k(CL)",
+    "min_order_qty": 10,
+    "remarks": "Referred life. Drum is installed."
+  },
+  {
+    "id": "AR-SU1",
+    "name": "Stamp unit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-AM10L",
+    "name": "Application communication module",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-AM11L",
+    "name": "External account module",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-FN13",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FN11",
+    "name": "Inner finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FN14",
+    "name": "Saddle stitch finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FR12UL",
+    "name": "Data security kit",
+    "category": "Storage / Security",
+    "remarks": "Data security option."
+  },
+  {
+    "id": "BP-FX11",
+    "name": "Facsimile expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-FN18",
+    "name": "Inner finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-SD10",
+    "name": "High capacity SSD",
+    "category": "Storage / Security"
+  },
+  {
+    "id": "BP-DD10",
+    "name": "Document filing expansion kit",
+    "category": "Connectivity / Expansion",
+    "remarks": "Document filing/storage option."
+  },
+  {
+    "id": "BP-FN12",
+    "name": "Inner finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "MX-AMX1L",
+    "name": "Application integration module",
+    "category": "Connectivity / Expansion",
+    "remarks": "Sharp OSA application integration option."
+  },
+  {
+    "id": "MX-AMX2L",
+    "name": "Application communication module",
+    "category": "Connectivity / Expansion",
+    "remarks": "Sharp OSA application communication option."
+  },
+  {
+    "id": "MX-AMX3L",
+    "name": "External account module",
+    "category": "Connectivity / Expansion",
+    "remarks": "Sharp OSA external accounting option."
+  },
+  {
+    "id": "MX-CF11",
+    "name": "Inserter",
+    "category": "Connectivity / Expansion",
+    "remarks": "Inserter option for supported high-volume configurations."
+  },
+  {
+    "id": "MX-EB18",
+    "name": "Wireless LAN adaptor",
+    "category": "Connectivity / Expansion",
+    "remarks": "Requires an additional part for attachment."
+  },
+  {
+    "id": "MX-FD10",
+    "name": "Folding unit",
+    "category": "Folding Units",
+    "remarks": "Requires compatible finisher/output path where listed."
+  },
+  {
+    "id": "MX-FN21",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "MX-FN22",
+    "name": "Saddle stitch finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "MX-FN34",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "MX-FN35",
+    "name": "Saddle stitch finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "MX-FR65U",
+    "name": "Data security kit",
+    "category": "Storage / Security",
+    "remarks": "Data security option."
+  },
+  {
+    "id": "MX-FWX1L",
+    "name": "I-Fax expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-KB19",
+    "name": "Keyboard",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-LC12",
+    "name": "Large capacity tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-LC13N",
+    "name": "Large capacity trays",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-LCX3N",
+    "name": "Large capacity tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-LT10",
+    "name": "Long paper feeding tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-MF11",
+    "name": "Multi bypass tray",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PE15",
+    "name": "Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PF10L",
+    "name": "Barcode font kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-CF10",
+    "name": "Inserter",
+    "category": "Connectivity / Expansion",
+    "remarks": "Inserter option for supported high-volume configurations."
+  },
+  {
+    "id": "BP-DD11",
+    "name": "Document filing expansion kit",
+    "category": "Connectivity / Expansion",
+    "remarks": "Document filing/storage option."
+  },
+  {
+    "id": "BP-FN19",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FN20",
+    "name": "Saddle stitch finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FN21",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-LC12",
+    "name": "Large capacity tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-LC13",
+    "name": "Large capacity trays",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-LT10",
+    "name": "Long paper feeding tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-LT11",
+    "name": "Long paper feeding tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-MF10",
+    "name": "Multi bypass tray",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-PE14",
+    "name": "Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-PN10C",
+    "name": "Punch module - 2/4 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "BP-PN10D",
+    "name": "Punch module - 4 holes wide",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "BP-PX12",
+    "name": "Interface kit for Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-VD10L",
+    "name": "Virus detection kit",
+    "category": "Storage / Security"
+  },
+  {
+    "id": "MX-PN16C",
+    "name": "Punch module - 2/4 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN16D",
+    "name": "Punch module - 4 wide holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-RB12N",
+    "name": "Paper pass unit",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "BP-PE10",
+    "name": "Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-PE11",
+    "name": "Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-PX10",
+    "name": "Interface kit for Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-PX11",
+    "name": "Interface kit for Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-MF10",
+    "name": "Multi bypass tray",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PN13A",
+    "name": "Punch module - 2 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN13C",
+    "name": "Punch module - 2/4 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN13D",
+    "name": "Punch module - 4 holes wide",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-RB13",
+    "name": "Relay unit",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "MX-RB14",
+    "name": "Curl correction unit",
+    "category": "Output / Paper Pass",
+    "remarks": "Required by some finishing paths."
+  },
+  {
+    "id": "MX-RB17",
+    "name": "Connection module",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "MX-RB27",
+    "name": "Decurl unit",
+    "category": "Output / Paper Pass",
+    "remarks": "Required by some finishing paths."
+  },
+  {
+    "id": "MX-SL10N",
+    "name": "Status indicator",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-TM10",
+    "name": "Trimming module",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-TR14",
+    "name": "Exit tray unit",
+    "category": "Connectivity / Expansion",
+    "remarks": "Right-side exit tray path."
+  },
+  {
+    "id": "MX-TU14",
+    "name": "Exit tray cabinet",
+    "category": "Connectivity / Expansion",
+    "remarks": "Centre exit tray path."
+  },
+  {
+    "id": "BP-CS12",
+    "name": "600-sheet paper feed unit",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS14",
+    "name": "High stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS15",
+    "name": "Low stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-FN17",
+    "name": "Inner finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-XB10",
+    "name": "Wireless LAN adapter",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-CS17",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper feed option."
+  },
+  {
+    "id": "BP-CS11",
+    "name": "500-sheet paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DE11",
+    "name": "Stand with 2 x 500-sheet paper drawers",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Stand/drawer base option. Select only one stand/base for the machine."
+  },
+  {
+    "id": "BP-DS12",
+    "name": "High stand",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Stand/base option. Select only one stand/base for the machine."
+  },
+  {
+    "id": "BP-DS13",
+    "name": "Low stand",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Stand/base option. Select only one stand/base for the machine."
+  },
+  {
+    "id": "MX-PK11L",
+    "name": "PS3 expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-CS15",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS18",
+    "name": "High stand",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Stand/base option. Select only one stand/base for the machine."
+  },
+  {
+    "id": "BP-DS19",
+    "name": "Low stand",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Stand/base option. Select only one stand/base for the machine."
+  },
+  {
+    "id": "BP-FN10",
+    "name": "Finisher",
+    "category": "Finishers"
+  },
+  {
+    "id": "BP-FR11U",
+    "name": "Data security kit",
+    "category": "Storage / Security",
+    "remarks": "Data security option."
+  },
+  {
+    "id": "BP-TR10",
+    "name": "Job separator tray",
+    "category": "Connectivity / Expansion",
+    "remarks": "When installed, upper output is 100 sheets and lower output is 500 sheets; 600 sheets total."
+  },
+  {
+    "id": "MX-EB19L",
+    "name": "Enhanced compression kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-EB20L",
+    "name": "OCR expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PK13L",
+    "name": "PS3 expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PU10L",
+    "name": "Direct print expansion kit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "BP-LC11",
+    "name": "Large capacity tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-LC19",
+    "name": "Large capacity tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-FR66U",
+    "name": "Data security kit",
+    "category": "Storage / Security",
+    "remarks": "Data security option."
+  },
+  {
+    "id": "MX-KB18",
+    "name": "Keyboard",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-MFX1",
+    "name": "Multi bypass tray",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PE16",
+    "name": "Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-PX16",
+    "name": "Interface kit for Fiery print server",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-RB16",
+    "name": "Paper pass unit",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "MX-RB18",
+    "name": "Curl correction unit",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "MX-CS26",
+    "name": "550-sheet tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-CS31",
+    "name": "550-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper drawer option."
+  },
+  {
+    "id": "MX-CS32",
+    "name": "550-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper drawer option."
+  },
+  {
+    "id": "MX-CS21",
+    "name": "550-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper drawer option."
+  },
+  {
+    "id": "MX-CS21S",
+    "name": "550-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper drawer option."
+  },
+  {
+    "id": "MX-CS23",
+    "name": "550-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper drawer option."
+  },
+  {
+    "id": "MX-CS23S",
+    "name": "550-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "Paper drawer option."
+  },
+  {
+    "id": "MX-CS25",
+    "name": "2,100-sheet paper drawer",
+    "category": "Paper Drawers / Stands",
+    "remarks": "High-capacity paper drawer option."
+  },
+  {
+    "id": "MX-FN38",
+    "name": "Finisher",
+    "category": "Finishers",
+    "remarks": "500-sheet finisher; 50-sheet stapling capacity."
+  },
+  {
+    "id": "MX-FN39",
+    "name": "Finisher",
+    "category": "Finishers",
+    "remarks": "500-sheet finisher; 50-sheet stapling capacity."
+  },
+  {
+    "id": "MX-MS10",
+    "name": "Manual stapling unit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-TR22",
+    "name": "Exit tray unit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-TR23",
+    "name": "Exit tray unit",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-CS14N",
+    "name": "600-sheet paper tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-DS22N",
+    "name": "High stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-DS23N",
+    "name": "Low stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-CS10",
+    "name": "500-sheet paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DE10",
+    "name": "Stand/2x500-sheet paper drawer",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS10",
+    "name": "High stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-DS11",
+    "name": "Low stand",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "BP-FR10U",
+    "name": "Data security kit",
+    "category": "Storage / Security"
+  },
+  {
+    "id": "BP-CS13",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-CS18",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-CS20",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-CS29",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-CS30",
+    "name": "Paper feed tray",
+    "category": "Paper Drawers / Stands"
+  },
+  {
+    "id": "MX-PN14B",
+    "name": "Punch module - 2/3 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN15B",
+    "name": "Punch module - 2/3 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "BP-FT22BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22BB",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22CB",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22MA",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22MB",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22YA",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT22YB",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FB201",
+    "name": "Fusing belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "MX-609HK",
+    "name": "Fusing roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "BP-FU202",
+    "name": "Fusing unit (Heater lamp: 200V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose"
+  },
+  {
+    "id": "MX-609HR",
+    "name": "Heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "MX-609LH",
+    "name": "Pressure roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "BP-TT200",
+    "name": "Primary transfer belt",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "BP-TU201",
+    "name": "Primary transfer belt unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "BP-TL200",
+    "name": "Primary transfer blade kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "BP-TR200",
+    "name": "Secondary transfer roller",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "200k",
+    "remarks": "200k 240k"
+  },
+  {
+    "id": "BP-HB200",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FT30BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "yield_life": "20k",
+    "remarks": "20k A4 5% coverage"
+  },
+  {
+    "id": "BP-FT30BB",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "yield_life": "10k",
+    "remarks": "10k A4 5% coverage N/A for Agency."
+  },
+  {
+    "id": "BP-FT30CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "yield_life": "15k",
+    "remarks": "15k A4 5% coverage"
+  },
+  {
+    "id": "BP-FT30CB",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "yield_life": "7.5k",
+    "remarks": "7.5k A4 5% coverage N/A for Agency."
+  },
+  {
+    "id": "BP-FT30MA",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "yield_life": "15k",
+    "remarks": "15k A4 5% coverage"
+  },
+  {
+    "id": "BP-FT30MB",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "yield_life": "7.5k",
+    "remarks": "7.5k A4 5% coverage N/A for Agency."
+  },
+  {
+    "id": "BP-FT30YA",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "yield_life": "15k",
+    "remarks": "15k A4 5% coverage"
+  },
+  {
+    "id": "BP-FT30YB",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "yield_life": "7.5k",
+    "remarks": "7.5k A4 5% coverage N/A for Agency."
+  },
+  {
+    "id": "BP-FT90BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FT90CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-C10DD",
+    "name": "Imaging unit",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 1,
+    "yield_life": "50k",
+    "remarks": "50k"
+  },
+  {
+    "id": "BP-HB101",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 10,
+    "yield_life": "13.5k",
+    "remarks": "13.5k"
+  },
+  {
+    "id": "MX-C36TB",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 96,
+    "yield_life": "20k",
+    "remarks": "20k A4 5% coverage"
+  },
+  {
+    "id": "MX-C36TB-B",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 96,
+    "yield_life": "9k",
+    "remarks": "9k A4 5% coverage From Dec. 23"
+  },
+  {
+    "id": "MX-C36TC",
+    "name": "Toner cartridge (Cyan) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 96,
+    "yield_life": "11.7k",
+    "remarks": "11.7k A4 5% coverage"
+  },
+  {
+    "id": "MX-C36TC-B",
+    "name": "Toner cartridge (Cyan) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 96,
+    "yield_life": "6k",
+    "remarks": "6k A4 5% coverage From Dec. 23"
+  },
+  {
+    "id": "MX-C36TM",
+    "name": "Toner cartridge (Magenta) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 96,
+    "yield_life": "11.7k",
+    "remarks": "11.7k A4 5% coverage"
+  },
+  {
+    "id": "MX-C36TM-B",
+    "name": "Toner cartridge (Magenta) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 96,
+    "yield_life": "6k",
+    "remarks": "6k A4 5% coverage From Dec. 23"
+  },
+  {
+    "id": "MX-C36TY",
+    "name": "Toner cartridge (Yellow) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 96,
+    "yield_life": "11.7k",
+    "remarks": "11.7k A4 5% coverage"
+  },
+  {
+    "id": "MX-C36TY-B",
+    "name": "Toner cartridge (Yellow) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 96,
+    "yield_life": "6k",
+    "remarks": "6k A4 5% coverage From Dec. 23"
+  },
+  {
+    "id": "MX-C36DU-B",
+    "name": "Black imaging kit Return",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "color": "Black",
+    "min_order_qty": 15,
+    "yield_life": "150k",
+    "remarks": "150k"
+  },
+  {
+    "id": "MX-C36DU-S",
+    "name": "Black and colour imaging kit Return",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "color": "Black",
+    "min_order_qty": 15,
+    "yield_life": "150k",
+    "remarks": "150k"
+  },
+  {
+    "id": "MX-C41KA",
+    "name": "220V fuser maintenance kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "yield_life": "150k",
+    "remarks": "150k"
+  },
+  {
+    "id": "MX-C41HB",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 96,
+    "yield_life": "30k",
+    "remarks": "30k"
+  },
+  {
+    "id": "MX-C52TB",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 96,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-C52TC",
+    "name": "Toner cartridge (Cyan) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 96,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-C52TM",
+    "name": "Toner cartridge (Magenta) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 96,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-C52TY",
+    "name": "Toner cartridge (Yellow) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 96,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-C51FK",
+    "name": "Fuser maintenance kit (",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 220,
+    "remarks": "-240V) 1"
+  },
+  {
+    "id": "MX-C51HB",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 96
+  },
+  {
+    "id": "BP-FT200",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FT201",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-XT200",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "yield_life": "23k",
+    "remarks": "23k 23k A4 6% coverage"
+  },
+  {
+    "id": "BP-XT201",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "yield_life": "10k",
+    "remarks": "10k 10k A4 6% coverage"
+  },
+  {
+    "id": "BP-FV200",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10,
+    "yield_life": "75k",
+    "remarks": "75k 75k 100k 100k"
+  },
+  {
+    "id": "MX-312FR",
+    "name": "Drum",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10,
+    "yield_life": "75k",
+    "remarks": "75k 75k 75k 100k 100k"
+  },
+  {
+    "id": "MX-312DU",
+    "name": "Drum frame unit",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10,
+    "yield_life": "300k",
+    "remarks": "300k 300k"
+  },
+  {
+    "id": "MX-312MR",
+    "name": "Feeding roller kit (for bypass tray)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "100k",
+    "remarks": "100k 100k"
+  },
+  {
+    "id": "MX-312RT",
+    "name": "Feeding roller kit (for tray)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "100k",
+    "remarks": "100k 100k"
+  },
+  {
+    "id": "BP-FU201",
+    "name": "Fusing unit (Heater lamp: 200V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 4,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "BP-LH200",
+    "name": "Lower heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "300k",
+    "remarks": "300k 300k"
+  },
+  {
+    "id": "MX-312KA",
+    "name": "Maintenance kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "100k",
+    "remarks": "100k 100k"
+  },
+  {
+    "id": "BP-TF200",
+    "name": "Toner filter",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 10,
+    "yield_life": "75k",
+    "remarks": "75k 75k 75k 100k 100k"
+  },
+  {
+    "id": "MX-312TX",
+    "name": "Transfer roller unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "MX-312UH",
+    "name": "Upper heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "MX-313UH",
+    "name": "Upper heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "BP-FT202",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FT203",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FV201",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10,
+    "yield_life": "75k",
+    "remarks": "75k 75k 75k 100k 100k"
+  },
+  {
+    "id": "BP-FU203",
+    "name": "Fusing unit (Heater lamp: 200V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 4,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "BP-LH201",
+    "name": "Lower heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "300k",
+    "remarks": "300k 300k"
+  },
+  {
+    "id": "BP-TX200",
+    "name": "Transfer roller unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "BP-HU200",
+    "name": "Upper heat roller",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "150k",
+    "remarks": "150k 150k 150k"
+  },
+  {
+    "id": "BP-UH200",
+    "name": "Upper heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "yield_life": "150k",
+    "remarks": "150k 150k"
+  },
+  {
+    "id": "MX-900FT",
+    "name": "Toner cartridge",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 4,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "MX-900FV",
+    "name": "Developer",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "min_order_qty": 5
+  },
+  {
+    "id": "MX-850AR",
+    "name": "Drum",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 4
+  },
+  {
+    "id": "MX-900CB",
+    "name": "Cleaning blade kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-900DK",
+    "name": "Developer maintenance kit",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-900FL",
+    "name": "Filter kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-903FU",
+    "name": "Fuser unit (Heater lamp: 240V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "MX-950KC",
+    "name": "Fusing maintenance kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-950HK",
+    "name": "Heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 5
+  },
+  {
+    "id": "MX-B42T",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 108,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B42T-S",
+    "name": "Toner cartridge (Black) Regular",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 108,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B43T",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 108,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B43T-S",
+    "name": "Toner cartridge (Black) Regular",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 108,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B42DU",
+    "name": "Imaging unit",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 102
+  },
+  {
+    "id": "MX-B47T",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 90,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B47DU",
+    "name": "Imaging unit Return",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 80
+  },
+  {
+    "id": "MX-B46KA",
+    "name": "Fuser maintenance kit (220V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "yield_life": "200k",
+    "remarks": "200k"
+  },
+  {
+    "id": "MX-B47KA",
+    "name": "Fuser maintenance kit (220V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "yield_life": "200k",
+    "remarks": "200k"
+  },
+  {
+    "id": "MX-B70T",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 72,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B70DU",
+    "name": "Imaging unit Return",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 36
+  },
+  {
+    "id": "MX-B70KA",
+    "name": "225K maintenance kit (230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1
+  },
+  {
+    "id": "MX-B70KB",
+    "name": "225K maintenance kit (230V NRP)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1
+  },
+  {
+    "id": "MX-B70KD",
+    "name": "400K maintenance kit (Printer",
+    "category": "Consumables",
+    "consumable_type": "Maintenance"
+  },
+  {
+    "id": "MX-B70KE",
+    "name": "400K maintenance kit (230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1
+  },
+  {
+    "id": "AR-B35FT",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-B45FV",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-B45DU",
+    "name": "Drum unit",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-B35FK",
+    "name": "DV filter",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-B35FU",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 4
+  },
+  {
+    "id": "MX-B35U1",
+    "name": "Transfer unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-B50FT-A",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-B50FT-B",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-B50FV",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FU501",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 4
+  },
+  {
+    "id": "MX-SCX1",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 20,
+    "remarks": "Requires BP-FN17."
+  },
+  {
+    "id": "BP-FK700",
+    "name": "DV filter",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FB703",
+    "name": "Fusing belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 6,
+    "remarks": "Until Jan 2026."
+  },
+  {
+    "id": "BP-FB706",
+    "name": "Fusing belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 6
+  },
+  {
+    "id": "BP-FU701",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose. Until Jan 2026."
+  },
+  {
+    "id": "BP-FU705",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "BP-LH700",
+    "name": "Pressure roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10,
+    "remarks": "Until Jan 2026."
+  },
+  {
+    "id": "BP-LH702",
+    "name": "Pressure roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-TB700",
+    "name": "Primary transfer belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-TL700",
+    "name": "Primary transfer blade",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-TU701",
+    "name": "Primary transfer unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "BP-TR700",
+    "name": "Secondary transfer roller",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FT70BC",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70BD",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70CC",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70CD",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70MC",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70MD",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70YC",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-FT70YD",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-TU700",
+    "name": "Primary transfer unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "AR-SC2",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 20,
+    "remarks": "Requires BP-FN14."
+  },
+  {
+    "id": "BP-SC10",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 20,
+    "remarks": "Requires BP-FN18."
+  },
+  {
+    "id": "MX-SC11",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 20,
+    "remarks": "Requires MX-FN34 or MX-FN35."
+  },
+  {
+    "id": "MX-SC12",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 32,
+    "remarks": "Requires MX-FN35 (Saddle stitch)."
+  },
+  {
+    "id": "BP-HB700",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-RK702",
+    "name": "Charging roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance"
+  },
+  {
+    "id": "MX-751FK",
+    "name": "DV filter kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-620FL",
+    "name": "Filter kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-801FE",
+    "name": "Fusing belt unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1
+  },
+  {
+    "id": "MX-804FU",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "MX-751MK",
+    "name": "Main charger kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-620LH",
+    "name": "Pressure roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-800B1",
+    "name": "Primary transfer belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-801U1",
+    "name": "Primary transfer belt unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "MX-751TL",
+    "name": "Primary transfer blade kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-751C1",
+    "name": "Primary transfer CL roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-620B2",
+    "name": "Secondary transfer belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-801U2",
+    "name": "Secondary transfer belt unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "MX-800TG",
+    "name": "Secondary transfer blade",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-SCX2",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 12,
+    "remarks": "Requires MX-FN21 or MX-FN22."
+  },
+  {
+    "id": "MX-700HB",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 5
+  },
+  {
+    "id": "MX-800WB",
+    "name": "Web cleaning kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FE803",
+    "name": "Fusing belt unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1
+  },
+  {
+    "id": "BP-FU803",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose"
+  },
+  {
+    "id": "BP-SC11",
+    "name": "Staple cartridge",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 6,
+    "remarks": "Requires BP-FN20 or BP-FN21."
+  },
+  {
+    "id": "MX-C35TB",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 144,
+    "remarks": "9k A4 5% coverage"
+  },
+  {
+    "id": "MX-C35TC",
+    "name": "Toner cartridge (Cyan) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 144,
+    "remarks": "6k A4 5% coverage"
+  },
+  {
+    "id": "MX-C35TM",
+    "name": "Toner cartridge (Magenta) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 144,
+    "remarks": "6k A4 5% coverage"
+  },
+  {
+    "id": "MX-C35TY",
+    "name": "Toner cartridge (Yellow) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 144,
+    "remarks": "6k A4 5% coverage"
+  },
+  {
+    "id": "MX-C35DU-B",
+    "name": "Black imaging kit Return",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "color": "Black",
+    "min_order_qty": 15,
+    "remarks": "125k"
+  },
+  {
+    "id": "MX-C35DU-S",
+    "name": "Black and colour imaging kit Return",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "color": "Black",
+    "min_order_qty": 15,
+    "remarks": "125k"
+  },
+  {
+    "id": "MX-C40KA",
+    "name": "220V fuser maintenance kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "125k"
+  },
+  {
+    "id": "MX-C40HB",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 96,
+    "remarks": "25k"
+  },
+  {
+    "id": "MX-C53TB",
+    "name": "Toner cartridge (Black) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 96,
+    "remarks": "20k A4 5% coverage"
+  },
+  {
+    "id": "MX-C53TC",
+    "name": "Toner cartridge (Cyan) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 96,
+    "remarks": "11.5k A4 5% coverage"
+  },
+  {
+    "id": "MX-C53TM",
+    "name": "Toner cartridge (Magenta) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 96,
+    "remarks": "11.5k A4 5% coverage"
+  },
+  {
+    "id": "MX-C53TY",
+    "name": "Toner cartridge (Yellow) Return",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 96,
+    "remarks": "11.5k A4 5% coverage"
+  },
+  {
+    "id": "BP-FT300",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FT301",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage For SMEF, Taiwan"
+  },
+  {
+    "id": "BP-FT700",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FV700",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-DR700",
+    "name": "Drum",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-DU700",
+    "name": "Drum unit",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-RK701",
+    "name": "Charge roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-609FK",
+    "name": "DV filter unit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FU703",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose. Until Jan 2026."
+  },
+  {
+    "id": "BP-FU707",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "BP-HB701",
+    "name": "Toner collection container",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-TB701",
+    "name": "Transfer roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FT701",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FT705",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 6% coverage"
+  },
+  {
+    "id": "BP-FV705",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-754DR",
+    "name": "Drum",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-754FL",
+    "name": "Filter kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-FU902",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "BP-FU903",
+    "name": "Fusing unit (Heater lamp: 230V)",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 1,
+    "remarks": "For service purpose."
+  },
+  {
+    "id": "BP-HK900",
+    "name": "Heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-HK901",
+    "name": "Heat roller kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-754MK",
+    "name": "Main charger kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-754TT",
+    "name": "Transfer belt kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-754WB",
+    "name": "Web cleaning kit",
+    "category": "Consumables",
+    "consumable_type": "Maintenance",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-80FT-BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-80FT-CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-80FT-MA",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-80FT-YA",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "MX-62FV-BA",
+    "name": "Developer (Black)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "Black",
+    "min_order_qty": 10
+  },
+  {
+    "id": "MX-62FV-SA",
+    "name": "Developer (Cyan/Magenta/Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Developer",
+    "color": "CMY",
+    "min_order_qty": 5
+  },
+  {
+    "id": "MX-62FR-SA",
+    "name": "Drum",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 10
+  },
+  {
+    "id": "BP-C10FT-BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "6k A4 5% coverage"
+  },
+  {
+    "id": "BP-C10FT-CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "5k A4 5% coverage"
+  },
+  {
+    "id": "BP-C10FT-MA",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "5k A4 5% coverage"
+  },
+  {
+    "id": "BP-C10FT-YA",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "5k A4 5% coverage"
+  },
+  {
+    "id": "MX-C52DU-BS",
+    "name": "Black imaging unit Regular",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "color": "Black",
+    "min_order_qty": 24
+  },
+  {
+    "id": "MX-C52DU-SS",
+    "name": "Colour (CMY) imaging kit Regular",
+    "category": "Consumables",
+    "consumable_type": "Drum",
+    "min_order_qty": 5
+  },
+  {
+    "id": "BP-C50FT-BA",
+    "name": "Toner cartridge (Black)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Black",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-C50FT-CA",
+    "name": "Toner cartridge (Cyan)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Cyan",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-C50FT-MA",
+    "name": "Toner cartridge (Magenta)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Magenta",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-C50FT-YA",
+    "name": "Toner cartridge (Yellow)",
+    "category": "Consumables",
+    "consumable_type": "Toner",
+    "color": "Yellow",
+    "min_order_qty": 10,
+    "remarks": "A4 5% coverage"
+  },
+  {
+    "id": "BP-TR12",
+    "name": "Job separator tray",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "BP-UT10",
+    "name": "Utility table",
+    "category": "Connectivity / Expansion"
+  },
+  {
+    "id": "MX-TR20N",
+    "name": "Exit tray unit",
+    "category": "Output / Paper Pass"
+  },
+  {
+    "id": "MX-PN14C",
+    "name": "Punch module - 2/4 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN14D",
+    "name": "Punch module - 4 wide holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN15C",
+    "name": "Punch module - 2/4 holes",
+    "category": "Punch Modules"
+  },
+  {
+    "id": "MX-PN15D",
+    "name": "Punch module - 4 wide holes",
+    "category": "Punch Modules"
+  }
+]

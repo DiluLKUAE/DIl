@@ -1,0 +1,2357 @@
+[
+  {
+    "id": "paper_drawer_stand_base",
+    "name": "Paper Drawer / Stand Base",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one paper drawer / stand base. BP-DE12, BP-DE13, BP-DE14, and BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "finishers",
+    "name": "Finishers",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-FN10",
+      "BP-FN11",
+      "BP-FN12",
+      "BP-FN13",
+      "BP-FN14",
+      "BP-FN15",
+      "BP-FN16",
+      "BP-FN17",
+      "BP-FN18",
+      "BP-FN19",
+      "BP-FN20",
+      "BP-FN21",
+      "MX-FN21",
+      "MX-FN22",
+      "MX-FN34",
+      "MX-FN35",
+      "MX-FN38",
+      "MX-FN39"
+    ],
+    "max_select": 1,
+    "message": "Select only one finisher. Different finisher types cannot be installed together."
+  },
+  {
+    "id": "helios_stands",
+    "name": "Helios Stand Options",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-DE16",
+      "BP-DS16",
+      "BP-DS17"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand option. BP-DE16, BP-DS16, and BP-DS17 cannot be installed together."
+  },
+  {
+    "id": "toner_black_bp70",
+    "name": "Black Toner Variant",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for this model."
+  },
+  {
+    "id": "toner_cyan_bp70",
+    "name": "Cyan Toner Variant",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for this model."
+  },
+  {
+    "id": "toner_magenta_bp70",
+    "name": "Magenta Toner Variant",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for this model."
+  },
+  {
+    "id": "toner_yellow_bp70",
+    "name": "Yellow Toner Variant",
+    "model": "ALL",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for this model."
+  },
+  {
+    "id": "toner_bp_70c45_black",
+    "name": "BP-70C45 Black toner variants",
+    "model": "BP-70C45",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-70C45."
+  },
+  {
+    "id": "toner_bp_70c45_cyan",
+    "name": "BP-70C45 Cyan toner variants",
+    "model": "BP-70C45",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-70C45."
+  },
+  {
+    "id": "toner_bp_70c45_magenta",
+    "name": "BP-70C45 Magenta toner variants",
+    "model": "BP-70C45",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-70C45."
+  },
+  {
+    "id": "toner_bp_70c45_yellow",
+    "name": "BP-70C45 Yellow toner variants",
+    "model": "BP-70C45",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-70C45."
+  },
+  {
+    "id": "toner_bp_70c55_black",
+    "name": "BP-70C55 Black toner variants",
+    "model": "BP-70C55",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-70C55."
+  },
+  {
+    "id": "toner_bp_70c55_cyan",
+    "name": "BP-70C55 Cyan toner variants",
+    "model": "BP-70C55",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-70C55."
+  },
+  {
+    "id": "toner_bp_70c55_magenta",
+    "name": "BP-70C55 Magenta toner variants",
+    "model": "BP-70C55",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-70C55."
+  },
+  {
+    "id": "toner_bp_70c55_yellow",
+    "name": "BP-70C55 Yellow toner variants",
+    "model": "BP-70C55",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-70C55."
+  },
+  {
+    "id": "toner_bp_22c20_black",
+    "name": "BP-22C20 Black toner variants",
+    "model": "BP-22C20",
+    "accessory_ids": [
+      "BP-FT22BA",
+      "BP-FT22BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22C20."
+  },
+  {
+    "id": "toner_bp_22c20_cyan",
+    "name": "BP-22C20 Cyan toner variants",
+    "model": "BP-22C20",
+    "accessory_ids": [
+      "BP-FT22CA",
+      "BP-FT22CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-22C20."
+  },
+  {
+    "id": "toner_bp_22c20_magenta",
+    "name": "BP-22C20 Magenta toner variants",
+    "model": "BP-22C20",
+    "accessory_ids": [
+      "BP-FT22MA",
+      "BP-FT22MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-22C20."
+  },
+  {
+    "id": "toner_bp_22c20_yellow",
+    "name": "BP-22C20 Yellow toner variants",
+    "model": "BP-22C20",
+    "accessory_ids": [
+      "BP-FT22YA",
+      "BP-FT22YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-22C20."
+  },
+  {
+    "id": "toner_bp_22c25_black",
+    "name": "BP-22C25 Black toner variants",
+    "model": "BP-22C25",
+    "accessory_ids": [
+      "BP-FT22BA",
+      "BP-FT22BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22C25."
+  },
+  {
+    "id": "toner_bp_22c25_cyan",
+    "name": "BP-22C25 Cyan toner variants",
+    "model": "BP-22C25",
+    "accessory_ids": [
+      "BP-FT22CA",
+      "BP-FT22CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-22C25."
+  },
+  {
+    "id": "toner_bp_22c25_magenta",
+    "name": "BP-22C25 Magenta toner variants",
+    "model": "BP-22C25",
+    "accessory_ids": [
+      "BP-FT22MA",
+      "BP-FT22MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-22C25."
+  },
+  {
+    "id": "toner_bp_22c25_yellow",
+    "name": "BP-22C25 Yellow toner variants",
+    "model": "BP-22C25",
+    "accessory_ids": [
+      "BP-FT22YA",
+      "BP-FT22YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-22C25."
+  },
+  {
+    "id": "toner_bp_30c25t_black",
+    "name": "BP-30C25T Black toner variants",
+    "model": "BP-30C25T",
+    "accessory_ids": [
+      "BP-FT30BA",
+      "BP-FT30BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-30C25T."
+  },
+  {
+    "id": "toner_bp_30c25t_cyan",
+    "name": "BP-30C25T Cyan toner variants",
+    "model": "BP-30C25T",
+    "accessory_ids": [
+      "BP-FT30CA",
+      "BP-FT30CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-30C25T."
+  },
+  {
+    "id": "toner_bp_30c25t_magenta",
+    "name": "BP-30C25T Magenta toner variants",
+    "model": "BP-30C25T",
+    "accessory_ids": [
+      "BP-FT30MA",
+      "BP-FT30MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-30C25T."
+  },
+  {
+    "id": "toner_bp_30c25t_yellow",
+    "name": "BP-30C25T Yellow toner variants",
+    "model": "BP-30C25T",
+    "accessory_ids": [
+      "BP-FT30YA",
+      "BP-FT30YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-30C25T."
+  },
+  {
+    "id": "toner_mx_c358f_black",
+    "name": "MX-C358F Black toner variants",
+    "model": "MX-C358F",
+    "accessory_ids": [
+      "MX-C36TB",
+      "MX-C36TB-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for MX-C358F."
+  },
+  {
+    "id": "toner_mx_c358f_cyan",
+    "name": "MX-C358F Cyan toner variants",
+    "model": "MX-C358F",
+    "accessory_ids": [
+      "MX-C36TC",
+      "MX-C36TC-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for MX-C358F."
+  },
+  {
+    "id": "toner_mx_c358f_magenta",
+    "name": "MX-C358F Magenta toner variants",
+    "model": "MX-C358F",
+    "accessory_ids": [
+      "MX-C36TM",
+      "MX-C36TM-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for MX-C358F."
+  },
+  {
+    "id": "toner_mx_c358f_yellow",
+    "name": "MX-C358F Yellow toner variants",
+    "model": "MX-C358F",
+    "accessory_ids": [
+      "MX-C36TY",
+      "MX-C36TY-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for MX-C358F."
+  },
+  {
+    "id": "toner_bp_20m24l_black",
+    "name": "BP-20M24L Black toner variants",
+    "model": "BP-20M24L",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201",
+      "BP-XT200",
+      "BP-XT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-20M24L."
+  },
+  {
+    "id": "toner_bp_x240l_black",
+    "name": "BP-X240L Black toner variants",
+    "model": "BP-X240L",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201",
+      "BP-XT200",
+      "BP-XT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-X240L."
+  },
+  {
+    "id": "toner_bp_x310l_black",
+    "name": "BP-X310L Black toner variants",
+    "model": "BP-X310L",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201",
+      "BP-XT200",
+      "BP-XT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-X310L."
+  },
+  {
+    "id": "toner_bp_20m22_black",
+    "name": "BP-20M22 Black toner variants",
+    "model": "BP-20M22",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-20M22."
+  },
+  {
+    "id": "toner_bp_20m24_black",
+    "name": "BP-20M24 Black toner variants",
+    "model": "BP-20M24",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-20M24."
+  },
+  {
+    "id": "toner_bp_20m28_black",
+    "name": "BP-20M28 Black toner variants",
+    "model": "BP-20M28",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-20M28."
+  },
+  {
+    "id": "toner_bp_20m31_black",
+    "name": "BP-20M31 Black toner variants",
+    "model": "BP-20M31",
+    "accessory_ids": [
+      "BP-FT200",
+      "BP-FT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-20M31."
+  },
+  {
+    "id": "toner_bp_22m24l_black",
+    "name": "BP-22M24L Black toner variants",
+    "model": "BP-22M24L",
+    "accessory_ids": [
+      "BP-FT202",
+      "BP-FT203"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22M24L."
+  },
+  {
+    "id": "toner_bp_22m22_black",
+    "name": "BP-22M22 Black toner variants",
+    "model": "BP-22M22",
+    "accessory_ids": [
+      "BP-FT202",
+      "BP-FT203"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22M22."
+  },
+  {
+    "id": "toner_bp_22m24_black",
+    "name": "BP-22M24 Black toner variants",
+    "model": "BP-22M24",
+    "accessory_ids": [
+      "BP-FT202",
+      "BP-FT203"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22M24."
+  },
+  {
+    "id": "toner_bp_22m28_black",
+    "name": "BP-22M28 Black toner variants",
+    "model": "BP-22M28",
+    "accessory_ids": [
+      "BP-FT202",
+      "BP-FT203"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22M28."
+  },
+  {
+    "id": "toner_bp_22m31_black",
+    "name": "BP-22M31 Black toner variants",
+    "model": "BP-22M31",
+    "accessory_ids": [
+      "BP-FT202",
+      "BP-FT203"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-22M31."
+  },
+  {
+    "id": "toner_mx_b427pw_black",
+    "name": "MX-B427PW Black toner variants",
+    "model": "MX-B427PW",
+    "accessory_ids": [
+      "MX-B42T",
+      "MX-B42T-S",
+      "MX-B43T",
+      "MX-B43T-S"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for MX-B427PW."
+  },
+  {
+    "id": "toner_mx_b427w_black",
+    "name": "MX-B427W Black toner variants",
+    "model": "MX-B427W",
+    "accessory_ids": [
+      "MX-B42T",
+      "MX-B42T-S",
+      "MX-B43T",
+      "MX-B43T-S"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for MX-B427W."
+  },
+  {
+    "id": "toner_bp_b537wr_black",
+    "name": "BP-B537WR Black toner variants",
+    "model": "BP-B537WR",
+    "accessory_ids": [
+      "BP-B50FT-A",
+      "BP-B50FT-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-B537WR."
+  },
+  {
+    "id": "toner_bp_b547wd_black",
+    "name": "BP-B547WD Black toner variants",
+    "model": "BP-B547WD",
+    "accessory_ids": [
+      "BP-B50FT-A",
+      "BP-B50FT-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-B547WD."
+  },
+  {
+    "id": "toner_bp_50c26_black",
+    "name": "BP-50C26 Black toner variants",
+    "model": "BP-50C26",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-50C26."
+  },
+  {
+    "id": "toner_bp_50c26_cyan",
+    "name": "BP-50C26 Cyan toner variants",
+    "model": "BP-50C26",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-50C26."
+  },
+  {
+    "id": "toner_bp_50c26_magenta",
+    "name": "BP-50C26 Magenta toner variants",
+    "model": "BP-50C26",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-50C26."
+  },
+  {
+    "id": "toner_bp_50c26_yellow",
+    "name": "BP-50C26 Yellow toner variants",
+    "model": "BP-50C26",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-50C26."
+  },
+  {
+    "id": "toner_bp_50c31_black",
+    "name": "BP-50C31 Black toner variants",
+    "model": "BP-50C31",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-50C31."
+  },
+  {
+    "id": "toner_bp_50c31_cyan",
+    "name": "BP-50C31 Cyan toner variants",
+    "model": "BP-50C31",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-50C31."
+  },
+  {
+    "id": "toner_bp_50c31_magenta",
+    "name": "BP-50C31 Magenta toner variants",
+    "model": "BP-50C31",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-50C31."
+  },
+  {
+    "id": "toner_bp_50c31_yellow",
+    "name": "BP-50C31 Yellow toner variants",
+    "model": "BP-50C31",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-50C31."
+  },
+  {
+    "id": "toner_bp_50c36_black",
+    "name": "BP-50C36 Black toner variants",
+    "model": "BP-50C36",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-50C36."
+  },
+  {
+    "id": "toner_bp_50c36_cyan",
+    "name": "BP-50C36 Cyan toner variants",
+    "model": "BP-50C36",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-50C36."
+  },
+  {
+    "id": "toner_bp_50c36_magenta",
+    "name": "BP-50C36 Magenta toner variants",
+    "model": "BP-50C36",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-50C36."
+  },
+  {
+    "id": "toner_bp_50c36_yellow",
+    "name": "BP-50C36 Yellow toner variants",
+    "model": "BP-50C36",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-50C36."
+  },
+  {
+    "id": "toner_bp_50c45_black",
+    "name": "BP-50C45 Black toner variants",
+    "model": "BP-50C45",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-50C45."
+  },
+  {
+    "id": "toner_bp_50c45_cyan",
+    "name": "BP-50C45 Cyan toner variants",
+    "model": "BP-50C45",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-50C45."
+  },
+  {
+    "id": "toner_bp_50c45_magenta",
+    "name": "BP-50C45 Magenta toner variants",
+    "model": "BP-50C45",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-50C45."
+  },
+  {
+    "id": "toner_bp_50c45_yellow",
+    "name": "BP-50C45 Yellow toner variants",
+    "model": "BP-50C45",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-50C45."
+  },
+  {
+    "id": "toner_bp_50c55_black",
+    "name": "BP-50C55 Black toner variants",
+    "model": "BP-50C55",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-50C55."
+  },
+  {
+    "id": "toner_bp_50c55_cyan",
+    "name": "BP-50C55 Cyan toner variants",
+    "model": "BP-50C55",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-50C55."
+  },
+  {
+    "id": "toner_bp_50c55_magenta",
+    "name": "BP-50C55 Magenta toner variants",
+    "model": "BP-50C55",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-50C55."
+  },
+  {
+    "id": "toner_bp_50c55_yellow",
+    "name": "BP-50C55 Yellow toner variants",
+    "model": "BP-50C55",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-50C55."
+  },
+  {
+    "id": "toner_bp_50c65_black",
+    "name": "BP-50C65 Black toner variants",
+    "model": "BP-50C65",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-50C65."
+  },
+  {
+    "id": "toner_bp_50c65_cyan",
+    "name": "BP-50C65 Cyan toner variants",
+    "model": "BP-50C65",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-50C65."
+  },
+  {
+    "id": "toner_bp_50c65_magenta",
+    "name": "BP-50C65 Magenta toner variants",
+    "model": "BP-50C65",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-50C65."
+  },
+  {
+    "id": "toner_bp_50c65_yellow",
+    "name": "BP-50C65 Yellow toner variants",
+    "model": "BP-50C65",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-50C65."
+  },
+  {
+    "id": "toner_bp_51c26_black",
+    "name": "BP-51C26 Black toner variants",
+    "model": "BP-51C26",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-51C26."
+  },
+  {
+    "id": "toner_bp_51c26_cyan",
+    "name": "BP-51C26 Cyan toner variants",
+    "model": "BP-51C26",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-51C26."
+  },
+  {
+    "id": "toner_bp_51c26_magenta",
+    "name": "BP-51C26 Magenta toner variants",
+    "model": "BP-51C26",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-51C26."
+  },
+  {
+    "id": "toner_bp_51c26_yellow",
+    "name": "BP-51C26 Yellow toner variants",
+    "model": "BP-51C26",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-51C26."
+  },
+  {
+    "id": "toner_bp_51c31_black",
+    "name": "BP-51C31 Black toner variants",
+    "model": "BP-51C31",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-51C31."
+  },
+  {
+    "id": "toner_bp_51c31_cyan",
+    "name": "BP-51C31 Cyan toner variants",
+    "model": "BP-51C31",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-51C31."
+  },
+  {
+    "id": "toner_bp_51c31_magenta",
+    "name": "BP-51C31 Magenta toner variants",
+    "model": "BP-51C31",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-51C31."
+  },
+  {
+    "id": "toner_bp_51c31_yellow",
+    "name": "BP-51C31 Yellow toner variants",
+    "model": "BP-51C31",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-51C31."
+  },
+  {
+    "id": "toner_bp_51c36_black",
+    "name": "BP-51C36 Black toner variants",
+    "model": "BP-51C36",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-51C36."
+  },
+  {
+    "id": "toner_bp_51c36_cyan",
+    "name": "BP-51C36 Cyan toner variants",
+    "model": "BP-51C36",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-51C36."
+  },
+  {
+    "id": "toner_bp_51c36_magenta",
+    "name": "BP-51C36 Magenta toner variants",
+    "model": "BP-51C36",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-51C36."
+  },
+  {
+    "id": "toner_bp_51c36_yellow",
+    "name": "BP-51C36 Yellow toner variants",
+    "model": "BP-51C36",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-51C36."
+  },
+  {
+    "id": "toner_bp_51c45_black",
+    "name": "BP-51C45 Black toner variants",
+    "model": "BP-51C45",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-51C45."
+  },
+  {
+    "id": "toner_bp_51c45_cyan",
+    "name": "BP-51C45 Cyan toner variants",
+    "model": "BP-51C45",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-51C45."
+  },
+  {
+    "id": "toner_bp_51c45_magenta",
+    "name": "BP-51C45 Magenta toner variants",
+    "model": "BP-51C45",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-51C45."
+  },
+  {
+    "id": "toner_bp_51c45_yellow",
+    "name": "BP-51C45 Yellow toner variants",
+    "model": "BP-51C45",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-51C45."
+  },
+  {
+    "id": "toner_bp_51c55_black",
+    "name": "BP-51C55 Black toner variants",
+    "model": "BP-51C55",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-51C55."
+  },
+  {
+    "id": "toner_bp_51c55_cyan",
+    "name": "BP-51C55 Cyan toner variants",
+    "model": "BP-51C55",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-51C55."
+  },
+  {
+    "id": "toner_bp_51c55_magenta",
+    "name": "BP-51C55 Magenta toner variants",
+    "model": "BP-51C55",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-51C55."
+  },
+  {
+    "id": "toner_bp_51c55_yellow",
+    "name": "BP-51C55 Yellow toner variants",
+    "model": "BP-51C55",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-51C55."
+  },
+  {
+    "id": "toner_bp_51c65_black",
+    "name": "BP-51C65 Black toner variants",
+    "model": "BP-51C65",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-51C65."
+  },
+  {
+    "id": "toner_bp_51c65_cyan",
+    "name": "BP-51C65 Cyan toner variants",
+    "model": "BP-51C65",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-51C65."
+  },
+  {
+    "id": "toner_bp_51c65_magenta",
+    "name": "BP-51C65 Magenta toner variants",
+    "model": "BP-51C65",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-51C65."
+  },
+  {
+    "id": "toner_bp_51c65_yellow",
+    "name": "BP-51C65 Yellow toner variants",
+    "model": "BP-51C65",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-51C65."
+  },
+  {
+    "id": "toner_bp_60c31_black",
+    "name": "BP-60C31 Black toner variants",
+    "model": "BP-60C31",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-60C31."
+  },
+  {
+    "id": "toner_bp_60c31_cyan",
+    "name": "BP-60C31 Cyan toner variants",
+    "model": "BP-60C31",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-60C31."
+  },
+  {
+    "id": "toner_bp_60c31_magenta",
+    "name": "BP-60C31 Magenta toner variants",
+    "model": "BP-60C31",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-60C31."
+  },
+  {
+    "id": "toner_bp_60c31_yellow",
+    "name": "BP-60C31 Yellow toner variants",
+    "model": "BP-60C31",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-60C31."
+  },
+  {
+    "id": "toner_bp_60c36_black",
+    "name": "BP-60C36 Black toner variants",
+    "model": "BP-60C36",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-60C36."
+  },
+  {
+    "id": "toner_bp_60c36_cyan",
+    "name": "BP-60C36 Cyan toner variants",
+    "model": "BP-60C36",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-60C36."
+  },
+  {
+    "id": "toner_bp_60c36_magenta",
+    "name": "BP-60C36 Magenta toner variants",
+    "model": "BP-60C36",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-60C36."
+  },
+  {
+    "id": "toner_bp_60c36_yellow",
+    "name": "BP-60C36 Yellow toner variants",
+    "model": "BP-60C36",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-60C36."
+  },
+  {
+    "id": "toner_bp_60c45_black",
+    "name": "BP-60C45 Black toner variants",
+    "model": "BP-60C45",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-60C45."
+  },
+  {
+    "id": "toner_bp_60c45_cyan",
+    "name": "BP-60C45 Cyan toner variants",
+    "model": "BP-60C45",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-60C45."
+  },
+  {
+    "id": "toner_bp_60c45_magenta",
+    "name": "BP-60C45 Magenta toner variants",
+    "model": "BP-60C45",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-60C45."
+  },
+  {
+    "id": "toner_bp_60c45_yellow",
+    "name": "BP-60C45 Yellow toner variants",
+    "model": "BP-60C45",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-60C45."
+  },
+  {
+    "id": "toner_bp_61c31_black",
+    "name": "BP-61C31 Black toner variants",
+    "model": "BP-61C31",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-61C31."
+  },
+  {
+    "id": "toner_bp_61c31_cyan",
+    "name": "BP-61C31 Cyan toner variants",
+    "model": "BP-61C31",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-61C31."
+  },
+  {
+    "id": "toner_bp_61c31_magenta",
+    "name": "BP-61C31 Magenta toner variants",
+    "model": "BP-61C31",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-61C31."
+  },
+  {
+    "id": "toner_bp_61c31_yellow",
+    "name": "BP-61C31 Yellow toner variants",
+    "model": "BP-61C31",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-61C31."
+  },
+  {
+    "id": "toner_bp_61c36_black",
+    "name": "BP-61C36 Black toner variants",
+    "model": "BP-61C36",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-61C36."
+  },
+  {
+    "id": "toner_bp_61c36_cyan",
+    "name": "BP-61C36 Cyan toner variants",
+    "model": "BP-61C36",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-61C36."
+  },
+  {
+    "id": "toner_bp_61c36_magenta",
+    "name": "BP-61C36 Magenta toner variants",
+    "model": "BP-61C36",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-61C36."
+  },
+  {
+    "id": "toner_bp_61c36_yellow",
+    "name": "BP-61C36 Yellow toner variants",
+    "model": "BP-61C36",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-61C36."
+  },
+  {
+    "id": "toner_bp_70c65_black",
+    "name": "BP-70C65 Black toner variants",
+    "model": "BP-70C65",
+    "accessory_ids": [
+      "BP-FT70BA",
+      "BP-FT70BB"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-70C65."
+  },
+  {
+    "id": "toner_bp_70c65_cyan",
+    "name": "BP-70C65 Cyan toner variants",
+    "model": "BP-70C65",
+    "accessory_ids": [
+      "BP-FT70CA",
+      "BP-FT70CB"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-70C65."
+  },
+  {
+    "id": "toner_bp_70c65_magenta",
+    "name": "BP-70C65 Magenta toner variants",
+    "model": "BP-70C65",
+    "accessory_ids": [
+      "BP-FT70MA",
+      "BP-FT70MB"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-70C65."
+  },
+  {
+    "id": "toner_bp_70c65_yellow",
+    "name": "BP-70C65 Yellow toner variants",
+    "model": "BP-70C65",
+    "accessory_ids": [
+      "BP-FT70YA",
+      "BP-FT70YB"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-70C65."
+  },
+  {
+    "id": "toner_bp_71c45_black",
+    "name": "BP-71C45 Black toner variants",
+    "model": "BP-71C45",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-71C45."
+  },
+  {
+    "id": "toner_bp_71c45_cyan",
+    "name": "BP-71C45 Cyan toner variants",
+    "model": "BP-71C45",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-71C45."
+  },
+  {
+    "id": "toner_bp_71c45_magenta",
+    "name": "BP-71C45 Magenta toner variants",
+    "model": "BP-71C45",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-71C45."
+  },
+  {
+    "id": "toner_bp_71c45_yellow",
+    "name": "BP-71C45 Yellow toner variants",
+    "model": "BP-71C45",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-71C45."
+  },
+  {
+    "id": "toner_bp_71c55_black",
+    "name": "BP-71C55 Black toner variants",
+    "model": "BP-71C55",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-71C55."
+  },
+  {
+    "id": "toner_bp_71c55_cyan",
+    "name": "BP-71C55 Cyan toner variants",
+    "model": "BP-71C55",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-71C55."
+  },
+  {
+    "id": "toner_bp_71c55_magenta",
+    "name": "BP-71C55 Magenta toner variants",
+    "model": "BP-71C55",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-71C55."
+  },
+  {
+    "id": "toner_bp_71c55_yellow",
+    "name": "BP-71C55 Yellow toner variants",
+    "model": "BP-71C55",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-71C55."
+  },
+  {
+    "id": "toner_bp_71c65_black",
+    "name": "BP-71C65 Black toner variants",
+    "model": "BP-71C65",
+    "accessory_ids": [
+      "BP-FT70BC",
+      "BP-FT70BD"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-71C65."
+  },
+  {
+    "id": "toner_bp_71c65_cyan",
+    "name": "BP-71C65 Cyan toner variants",
+    "model": "BP-71C65",
+    "accessory_ids": [
+      "BP-FT70CC",
+      "BP-FT70CD"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for BP-71C65."
+  },
+  {
+    "id": "toner_bp_71c65_magenta",
+    "name": "BP-71C65 Magenta toner variants",
+    "model": "BP-71C65",
+    "accessory_ids": [
+      "BP-FT70MC",
+      "BP-FT70MD"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for BP-71C65."
+  },
+  {
+    "id": "toner_bp_71c65_yellow",
+    "name": "BP-71C65 Yellow toner variants",
+    "model": "BP-71C65",
+    "accessory_ids": [
+      "BP-FT70YC",
+      "BP-FT70YD"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for BP-71C65."
+  },
+  {
+    "id": "toner_mx_c428p_black",
+    "name": "MX-C428P Black toner variants",
+    "model": "MX-C428P",
+    "accessory_ids": [
+      "MX-C36TB",
+      "MX-C36TB-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for MX-C428P."
+  },
+  {
+    "id": "toner_mx_c428p_cyan",
+    "name": "MX-C428P Cyan toner variants",
+    "model": "MX-C428P",
+    "accessory_ids": [
+      "MX-C36TC",
+      "MX-C36TC-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one cyan toner variant for MX-C428P."
+  },
+  {
+    "id": "toner_mx_c428p_magenta",
+    "name": "MX-C428P Magenta toner variants",
+    "model": "MX-C428P",
+    "accessory_ids": [
+      "MX-C36TM",
+      "MX-C36TM-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one magenta toner variant for MX-C428P."
+  },
+  {
+    "id": "toner_mx_c428p_yellow",
+    "name": "MX-C428P Yellow toner variants",
+    "model": "MX-C428P",
+    "accessory_ids": [
+      "MX-C36TY",
+      "MX-C36TY-B"
+    ],
+    "max_select": 1,
+    "message": "Select only one yellow toner variant for MX-C428P."
+  },
+  {
+    "id": "toner_bp_x240_black",
+    "name": "BP-X240 Black toner variants",
+    "model": "BP-X240",
+    "accessory_ids": [
+      "BP-XT200",
+      "BP-XT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-X240."
+  },
+  {
+    "id": "toner_bp_x310_black",
+    "name": "BP-X310 Black toner variants",
+    "model": "BP-X310",
+    "accessory_ids": [
+      "BP-XT200",
+      "BP-XT201"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-X310."
+  },
+  {
+    "id": "toner_bp_30m28_black",
+    "name": "BP-30M28 Black toner variants",
+    "model": "BP-30M28",
+    "accessory_ids": [
+      "BP-FT300",
+      "BP-FT301"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-30M28."
+  },
+  {
+    "id": "toner_bp_30m31_black",
+    "name": "BP-30M31 Black toner variants",
+    "model": "BP-30M31",
+    "accessory_ids": [
+      "BP-FT300",
+      "BP-FT301"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-30M31."
+  },
+  {
+    "id": "toner_bp_30m35_black",
+    "name": "BP-30M35 Black toner variants",
+    "model": "BP-30M35",
+    "accessory_ids": [
+      "BP-FT300",
+      "BP-FT301"
+    ],
+    "max_select": 1,
+    "message": "Select only one black toner variant for BP-30M35."
+  },
+  {
+    "id": "stand_base_bp_22c20",
+    "name": "BP-22C20 stand / drawer base options",
+    "model": "BP-22C20",
+    "accessory_ids": [
+      "BP-DE16",
+      "BP-DS16",
+      "BP-DS17"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22C20. BP-DE16, BP-DS16, BP-DS17 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_22c25",
+    "name": "BP-22C25 stand / drawer base options",
+    "model": "BP-22C25",
+    "accessory_ids": [
+      "BP-DE16",
+      "BP-DS16",
+      "BP-DS17"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22C25. BP-DE16, BP-DS16, BP-DS17 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50c26",
+    "name": "BP-50C26 stand / drawer base options",
+    "model": "BP-50C26",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50C26. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50c31",
+    "name": "BP-50C31 stand / drawer base options",
+    "model": "BP-50C31",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50C31. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50c36",
+    "name": "BP-50C36 stand / drawer base options",
+    "model": "BP-50C36",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50C36. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50c45",
+    "name": "BP-50C45 stand / drawer base options",
+    "model": "BP-50C45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50C45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50c55",
+    "name": "BP-50C55 stand / drawer base options",
+    "model": "BP-50C55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50C55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50c65",
+    "name": "BP-50C65 stand / drawer base options",
+    "model": "BP-50C65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50C65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51c26",
+    "name": "BP-51C26 stand / drawer base options",
+    "model": "BP-51C26",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51C26. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51c31",
+    "name": "BP-51C31 stand / drawer base options",
+    "model": "BP-51C31",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51C31. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51c36",
+    "name": "BP-51C36 stand / drawer base options",
+    "model": "BP-51C36",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51C36. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51c45",
+    "name": "BP-51C45 stand / drawer base options",
+    "model": "BP-51C45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51C45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51c55",
+    "name": "BP-51C55 stand / drawer base options",
+    "model": "BP-51C55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51C55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51c65",
+    "name": "BP-51C65 stand / drawer base options",
+    "model": "BP-51C65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51C65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_60c31",
+    "name": "BP-60C31 stand / drawer base options",
+    "model": "BP-60C31",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-60C31. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_60c36",
+    "name": "BP-60C36 stand / drawer base options",
+    "model": "BP-60C36",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-60C36. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_60c45",
+    "name": "BP-60C45 stand / drawer base options",
+    "model": "BP-60C45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-60C45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_61c31",
+    "name": "BP-61C31 stand / drawer base options",
+    "model": "BP-61C31",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-61C31. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_61c36",
+    "name": "BP-61C36 stand / drawer base options",
+    "model": "BP-61C36",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-61C36. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_70c45",
+    "name": "BP-70C45 stand / drawer base options",
+    "model": "BP-70C45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-70C45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_70c55",
+    "name": "BP-70C55 stand / drawer base options",
+    "model": "BP-70C55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-70C55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_70c65",
+    "name": "BP-70C65 stand / drawer base options",
+    "model": "BP-70C65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-70C65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_71c45",
+    "name": "BP-71C45 stand / drawer base options",
+    "model": "BP-71C45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-71C45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_71c55",
+    "name": "BP-71C55 stand / drawer base options",
+    "model": "BP-71C55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-71C55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_71c65",
+    "name": "BP-71C65 stand / drawer base options",
+    "model": "BP-71C65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-71C65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_c533wr",
+    "name": "BP-C533WR stand / drawer base options",
+    "model": "BP-C533WR",
+    "accessory_ids": [
+      "BP-DS14",
+      "BP-DS15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-C533WR. BP-DS14, BP-DS15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_c533wd",
+    "name": "BP-C533WD stand / drawer base options",
+    "model": "BP-C533WD",
+    "accessory_ids": [
+      "BP-DS14",
+      "BP-DS15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-C533WD. BP-DS14, BP-DS15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_c542wd",
+    "name": "BP-C542WD stand / drawer base options",
+    "model": "BP-C542WD",
+    "accessory_ids": [
+      "BP-DS14",
+      "BP-DS15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-C542WD. BP-DS14, BP-DS15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_20m24l",
+    "name": "BP-20M24L stand / drawer base options",
+    "model": "BP-20M24L",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-20M24L. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_x240l",
+    "name": "BP-X240L stand / drawer base options",
+    "model": "BP-X240L",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-X240L. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_x310l",
+    "name": "BP-X310L stand / drawer base options",
+    "model": "BP-X310L",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-X310L. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_20m22",
+    "name": "BP-20M22 stand / drawer base options",
+    "model": "BP-20M22",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-20M22. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_20m24",
+    "name": "BP-20M24 stand / drawer base options",
+    "model": "BP-20M24",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-20M24. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_20m28",
+    "name": "BP-20M28 stand / drawer base options",
+    "model": "BP-20M28",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-20M28. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_20m31",
+    "name": "BP-20M31 stand / drawer base options",
+    "model": "BP-20M31",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-20M31. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_22m24l",
+    "name": "BP-22M24L stand / drawer base options",
+    "model": "BP-22M24L",
+    "accessory_ids": [
+      "BP-DS18",
+      "BP-DS19"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22M24L. BP-DS18, BP-DS19 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_22m22",
+    "name": "BP-22M22 stand / drawer base options",
+    "model": "BP-22M22",
+    "accessory_ids": [
+      "BP-DS18",
+      "BP-DS19"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22M22. BP-DS18, BP-DS19 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_22m24",
+    "name": "BP-22M24 stand / drawer base options",
+    "model": "BP-22M24",
+    "accessory_ids": [
+      "BP-DS18",
+      "BP-DS19"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22M24. BP-DS18, BP-DS19 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_22m28",
+    "name": "BP-22M28 stand / drawer base options",
+    "model": "BP-22M28",
+    "accessory_ids": [
+      "BP-DS18",
+      "BP-DS19"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22M28. BP-DS18, BP-DS19 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_22m31",
+    "name": "BP-22M31 stand / drawer base options",
+    "model": "BP-22M31",
+    "accessory_ids": [
+      "BP-DS18",
+      "BP-DS19"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-22M31. BP-DS18, BP-DS19 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_30m28",
+    "name": "BP-30M28 stand / drawer base options",
+    "model": "BP-30M28",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-30M28. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_30m31",
+    "name": "BP-30M31 stand / drawer base options",
+    "model": "BP-30M31",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-30M31. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_30m35",
+    "name": "BP-30M35 stand / drawer base options",
+    "model": "BP-30M35",
+    "accessory_ids": [
+      "BP-DE11",
+      "BP-DS12",
+      "BP-DS13"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-30M35. BP-DE11, BP-DS12, BP-DS13 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50m31",
+    "name": "BP-50M31 stand / drawer base options",
+    "model": "BP-50M31",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15",
+      "BP-DE16"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50M31. BP-DE12, BP-DE13, BP-DE14, BP-DE15, BP-DE16 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50m36",
+    "name": "BP-50M36 stand / drawer base options",
+    "model": "BP-50M36",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15",
+      "BP-DE16"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50M36. BP-DE12, BP-DE13, BP-DE14, BP-DE15, BP-DE16 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50m45",
+    "name": "BP-50M45 stand / drawer base options",
+    "model": "BP-50M45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15",
+      "BP-DE16"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50M45. BP-DE12, BP-DE13, BP-DE14, BP-DE15, BP-DE16 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50m55",
+    "name": "BP-50M55 stand / drawer base options",
+    "model": "BP-50M55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15",
+      "BP-DE16"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50M55. BP-DE12, BP-DE13, BP-DE14, BP-DE15, BP-DE16 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_50m65",
+    "name": "BP-50M65 stand / drawer base options",
+    "model": "BP-50M65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-50M65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51m31",
+    "name": "BP-51M31 stand / drawer base options",
+    "model": "BP-51M31",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51M31. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51m36",
+    "name": "BP-51M36 stand / drawer base options",
+    "model": "BP-51M36",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51M36. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51m45",
+    "name": "BP-51M45 stand / drawer base options",
+    "model": "BP-51M45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51M45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51m55",
+    "name": "BP-51M55 stand / drawer base options",
+    "model": "BP-51M55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51M55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_51m65",
+    "name": "BP-51M65 stand / drawer base options",
+    "model": "BP-51M65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-51M65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_70m45",
+    "name": "BP-70M45 stand / drawer base options",
+    "model": "BP-70M45",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-70M45. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_70m55",
+    "name": "BP-70M55 stand / drawer base options",
+    "model": "BP-70M55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-70M55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_70m65",
+    "name": "BP-70M65 stand / drawer base options",
+    "model": "BP-70M65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-70M65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_71m55",
+    "name": "BP-71M55 stand / drawer base options",
+    "model": "BP-71M55",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-71M55. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_71m65",
+    "name": "BP-71M65 stand / drawer base options",
+    "model": "BP-71M65",
+    "accessory_ids": [
+      "BP-DE12",
+      "BP-DE13",
+      "BP-DE14",
+      "BP-DE15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-71M65. BP-DE12, BP-DE13, BP-DE14, BP-DE15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_ar_b351wt",
+    "name": "AR-B351WT stand / drawer base options",
+    "model": "AR-B351WT",
+    "accessory_ids": [
+      "MX-DS22N",
+      "MX-DS23N"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for AR-B351WT. MX-DS22N, MX-DS23N cannot be installed together."
+  },
+  {
+    "id": "stand_base_ar_b451wt",
+    "name": "AR-B451WT stand / drawer base options",
+    "model": "AR-B451WT",
+    "accessory_ids": [
+      "MX-DS22N",
+      "MX-DS23N"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for AR-B451WT. MX-DS22N, MX-DS23N cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_b537wr",
+    "name": "BP-B537WR stand / drawer base options",
+    "model": "BP-B537WR",
+    "accessory_ids": [
+      "BP-DS14",
+      "BP-DS15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-B537WR. BP-DS14, BP-DS15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_b547wd",
+    "name": "BP-B547WD stand / drawer base options",
+    "model": "BP-B547WD",
+    "accessory_ids": [
+      "BP-DS14",
+      "BP-DS15"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-B547WD. BP-DS14, BP-DS15 cannot be installed together."
+  },
+  {
+    "id": "stand_base_bp_30c25t",
+    "name": "BP-30C25T stand / drawer base options",
+    "model": "BP-30C25T",
+    "accessory_ids": [
+      "BP-DE10",
+      "BP-DS10",
+      "BP-DS11"
+    ],
+    "max_select": 1,
+    "message": "Select only one stand / drawer base for BP-30C25T. BP-DE10, BP-DS10, BP-DS11 cannot be installed together."
+  }
+]

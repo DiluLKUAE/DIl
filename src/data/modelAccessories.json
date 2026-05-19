@@ -1,0 +1,9590 @@
+[
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-CS14"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-DE16"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-DS16"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-DS17"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-PK10L"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-CS14"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-DE16"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-DS16"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-DS17"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-PK10L"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FN12"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FN34"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FN35"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FR65U"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-FX15"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-KB19"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-LC12"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-LC13N"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-LCX3N"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-MF11"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-PE15"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FN34"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FN35"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FR65U"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-FX15"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-KB19"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-LC12"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-LC13N"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-LCX3N"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-MF11"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-PE15"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-CF10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-DD11"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FN19"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FN20"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FN21"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-LC12"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-LC13"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-LT10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-LT11"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-MF10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-PE14"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-PN10C"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-PN10D"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-PX12"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-FN34"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-LCX3N"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-PN16C"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-PN16D"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-RB12N"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-CF10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-DD11"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FN19"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FN20"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FN21"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-LC12"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-LC13"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-LT10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-LT11"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-MF10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-PE14"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-PN10C"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-PN10D"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-PX12"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-FN34"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-LCX3N"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-PN16C"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-PN16D"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-RB12N"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-PE10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-PE11"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-PX10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-PX11"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-LC12"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-LC13N"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-LCX3N"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-MF10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-MF11"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-PN13A"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-PN13C"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-PN13D"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-RB12N"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-RB13"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-RB14"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-RB17"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-RB27"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-SL10N"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-TM10"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-TR14"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "MX-TU14"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-PE10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-PE11"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-PX10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-PX11"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-LC12"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-LC13N"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-LCX3N"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-MF10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-MF11"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-PN13A"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-PN13C"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-PN13D"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-RB12N"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-RB13"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-RB14"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-RB17"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-RB27"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-SL10N"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-TM10"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-TR14"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "MX-TU14"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-CS12"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-DS14"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-DS15"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-FN17"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-XB10"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-CS12"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-DS14"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-DS15"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-FN17"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-XB10"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-CS12"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-DS14"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-DS15"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-FN17"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-XB10"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-CS17"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-CS17"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-PK11L"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "BP-CS11"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-CS15"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-DS18"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-DS19"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-CS15"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-DS18"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-DS19"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-CS15"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-DS18"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-DS19"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-CS15"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-DS18"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-DS19"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-CS15"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-DS18"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-DS19"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-FN10"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-FR11U"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-TR10"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-EB19L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-EB20L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-FX15"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-PK13L"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-PU10L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-FN10"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-FR11U"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-TR10"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-EB19L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-EB20L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-FX15"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-PK13L"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-PU10L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-DE11"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-DS12"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-DS13"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-FN10"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-FR11U"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-TR10"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-EB19L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-EB20L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-FX15"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-PK13L"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-PU10L"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DE16"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DE16"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DE16"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DE16"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FN12"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FN12"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DE12"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DE13"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DE14"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DE15"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FD10"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FN18"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-LC11"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-FN34"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-FN35"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-LC19"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-AM10L"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-AM11L"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-DD10"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-EB10"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-LC11"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-FN34"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-FN35"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-LC19"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-FR66U"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-KB18"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-LC12"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-LC13N"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-MF11"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-MFX1"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-PE16"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-PN13A"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-PN13C"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-PN13D"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-PX16"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-RB13"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-RB16"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-RB17"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-RB18"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-SL10N"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-TM10"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "AR-SU1"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-CF11"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-FD10"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-FN21"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-FN22"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-FR66U"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-KB18"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-LC12"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-LC13N"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-MF11"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-MFX1"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-PE16"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-PN13A"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-PN13C"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-PN13D"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-PX16"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-RB13"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-RB16"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-RB17"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-RB18"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-SL10N"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-TM10"
+  },
+  {
+    "model_id": "MX-B427PW",
+    "accessory_id": "MX-CS26"
+  },
+  {
+    "model_id": "MX-B427W",
+    "accessory_id": "MX-CS26"
+  },
+  {
+    "model_id": "MX-B468P",
+    "accessory_id": "MX-CS31"
+  },
+  {
+    "model_id": "MX-B468P",
+    "accessory_id": "MX-CS32"
+  },
+  {
+    "model_id": "MX-B468F",
+    "accessory_id": "MX-CS31"
+  },
+  {
+    "model_id": "MX-B468F",
+    "accessory_id": "MX-CS32"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-CS21"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-CS21S"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-CS23"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-CS23S"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-CS25"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-FN38"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-FN39"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-MS10"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-TR22"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-TR23"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-CS21"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-CS21S"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-CS23"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-CS23S"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-CS25"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-FN38"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-FN39"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-MS10"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-TR22"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-TR23"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-CS14N"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-DS22N"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-DS23N"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-CS14N"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-DS22N"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-DS23N"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-CS12"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-DS14"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-DS15"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-FN17"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-CS12"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-DS14"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-DS15"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-FN17"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-GT70BA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FV70BA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FV70SA"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-DR70SA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FV70BA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FV70SA"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-DR70SA"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-CS10"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-DE10"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-DS10"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-DS11"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FR10U"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-AMX2L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-AMX3L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-EB18"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-EB19L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-EB20L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-FX15"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-PK13L"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "MX-PU10L"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-CS13"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-CS18"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-CS20"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-CS29"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-CS30"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-CS17"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-CS13"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-CS29"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-CS30"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "MX-PN14B"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "MX-PN15B"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "MX-PN14B"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "MX-PN15B"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "MX-PN14B"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "MX-PN15B"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "MX-PN14B"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "MX-PN15B"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FN11"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "MX-PN14B"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "MX-PN15B"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22BA"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22BB"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22CA"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22CB"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22MA"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22MB"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22YA"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FT22YB"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FB201"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "MX-609HK"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-FU202"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "MX-609HR"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "MX-609LH"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-TT200"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-TU201"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-TL200"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-TR200"
+  },
+  {
+    "model_id": "BP-22C20",
+    "accessory_id": "BP-HB200"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22BA"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22BB"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22CA"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22CB"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22MA"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22MB"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22YA"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FT22YB"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FB201"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "MX-609HK"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-FU202"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "MX-609HR"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "MX-609LH"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-TT200"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-TU201"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-TL200"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-TR200"
+  },
+  {
+    "model_id": "BP-22C25",
+    "accessory_id": "BP-HB200"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30BA"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30BB"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30CA"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30CB"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30MA"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30MB"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30YA"
+  },
+  {
+    "model_id": "BP-30C25T",
+    "accessory_id": "BP-FT30YB"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-FT90BA"
+  },
+  {
+    "model_id": "BP-90C70",
+    "accessory_id": "BP-FT90CA"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-FT90BA"
+  },
+  {
+    "model_id": "BP-90C80",
+    "accessory_id": "BP-FT90CA"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-C10DD"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-HB101"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-C10DD"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-HB101"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TB"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TB-B"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TC"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TC-B"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TM"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TM-B"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TY"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36TY-B"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36DU-B"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C36DU-S"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C41KA"
+  },
+  {
+    "model_id": "MX-C358F",
+    "accessory_id": "MX-C41HB"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C52TB"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C52TC"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C52TM"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C52TY"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C51FK"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C51HB"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C52TB"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C52TC"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C52TM"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C52TY"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C51FK"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C51HB"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-XT200"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-XT201"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-20M24L",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-XT200"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-XT201"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-X240L",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-XT200"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-XT201"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-X310L",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-20M22",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-20M24",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-20M28",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-FT200"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-FT201"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-20M31",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-FT202"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-FT203"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-FV201"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-FU203"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-LH201"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-TX200"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-HU200"
+  },
+  {
+    "model_id": "BP-22M24L",
+    "accessory_id": "BP-UH200"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-FT202"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-FT203"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-FV201"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-FU203"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-LH201"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-TX200"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-HU200"
+  },
+  {
+    "model_id": "BP-22M22",
+    "accessory_id": "BP-UH200"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-FT202"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-FT203"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-FV201"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-FU203"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-LH201"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-TX200"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-HU200"
+  },
+  {
+    "model_id": "BP-22M24",
+    "accessory_id": "BP-UH200"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-FT202"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-FT203"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-FV201"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-FU203"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-LH201"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-TX200"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-HU200"
+  },
+  {
+    "model_id": "BP-22M28",
+    "accessory_id": "BP-UH200"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-FT202"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-FT203"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-FV201"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-FU203"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-LH201"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-TX200"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-HU200"
+  },
+  {
+    "model_id": "BP-22M31",
+    "accessory_id": "BP-UH200"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-900FT"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-900FV"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-850AR"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-900CB"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-900DK"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-900FL"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-903FU"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-950KC"
+  },
+  {
+    "model_id": "MX-M1056",
+    "accessory_id": "MX-950HK"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-900FT"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-900FV"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-850AR"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-900CB"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-900DK"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-900FL"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-903FU"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-950KC"
+  },
+  {
+    "model_id": "MX-M1206",
+    "accessory_id": "MX-950HK"
+  },
+  {
+    "model_id": "MX-B427PW",
+    "accessory_id": "MX-B42T"
+  },
+  {
+    "model_id": "MX-B427PW",
+    "accessory_id": "MX-B42T-S"
+  },
+  {
+    "model_id": "MX-B427PW",
+    "accessory_id": "MX-B43T"
+  },
+  {
+    "model_id": "MX-B427PW",
+    "accessory_id": "MX-B43T-S"
+  },
+  {
+    "model_id": "MX-B427PW",
+    "accessory_id": "MX-B42DU"
+  },
+  {
+    "model_id": "MX-B427W",
+    "accessory_id": "MX-B42T"
+  },
+  {
+    "model_id": "MX-B427W",
+    "accessory_id": "MX-B42T-S"
+  },
+  {
+    "model_id": "MX-B427W",
+    "accessory_id": "MX-B43T"
+  },
+  {
+    "model_id": "MX-B427W",
+    "accessory_id": "MX-B43T-S"
+  },
+  {
+    "model_id": "MX-B427W",
+    "accessory_id": "MX-B42DU"
+  },
+  {
+    "model_id": "MX-B468P",
+    "accessory_id": "MX-B47T"
+  },
+  {
+    "model_id": "MX-B468P",
+    "accessory_id": "MX-B47DU"
+  },
+  {
+    "model_id": "MX-B468P",
+    "accessory_id": "MX-B46KA"
+  },
+  {
+    "model_id": "MX-B468P",
+    "accessory_id": "MX-B47KA"
+  },
+  {
+    "model_id": "MX-B468F",
+    "accessory_id": "MX-B47T"
+  },
+  {
+    "model_id": "MX-B468F",
+    "accessory_id": "MX-B47DU"
+  },
+  {
+    "model_id": "MX-B468F",
+    "accessory_id": "MX-B46KA"
+  },
+  {
+    "model_id": "MX-B468F",
+    "accessory_id": "MX-B47KA"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-B70T"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-B70DU"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-B70KA"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-B70KB"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-B70KD"
+  },
+  {
+    "model_id": "MX-B557P",
+    "accessory_id": "MX-B70KE"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-B70T"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-B70DU"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-B70KA"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-B70KB"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-B70KD"
+  },
+  {
+    "model_id": "MX-B707P",
+    "accessory_id": "MX-B70KE"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "AR-B35FT"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-B45FV"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-B45DU"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-B35FK"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-B35FU"
+  },
+  {
+    "model_id": "AR-B351WT",
+    "accessory_id": "MX-B35U1"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "AR-B35FT"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-B45FV"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-B45DU"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-B35FK"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-B35FU"
+  },
+  {
+    "model_id": "AR-B451WT",
+    "accessory_id": "MX-B35U1"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-B50FT-A"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-B50FT-B"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-B50FV"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "MX-B45DU"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "MX-B35FK"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "BP-FU501"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-B537WR",
+    "accessory_id": "MX-B35U1"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-B50FT-A"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-B50FT-B"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-B50FV"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "MX-B45DU"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "MX-B35FK"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "BP-FU501"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-B547WD",
+    "accessory_id": "MX-B35U1"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-50C26",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-50C31",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-50C36",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-50C45",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-50C55",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-51C26",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-51C31",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-51C36",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-51C45",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-51C55",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-51C65",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-60C31",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-60C36",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-60C45",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-61C31",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-61C36",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-70C45",
+    "accessory_id": "BP-RK702"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-70C55",
+    "accessory_id": "BP-RK702"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70BA"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70BB"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70CA"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70CB"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70MA"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70MB"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70YA"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FT70YB"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FU701"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70C65",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-71C45",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-71C55",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70BC"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70BD"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70CC"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70CD"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70MC"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70MD"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70YC"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FT70YD"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FK700"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-FU705"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-TB700"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-TL700"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-TU700"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-TU701"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-TR700"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-71C65",
+    "accessory_id": "BP-HB700"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-751FK"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-620FL"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-801FE"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-804FU"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-751MK"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-620LH"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-800B1"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-801U1"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-751TL"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-751C1"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-620B2"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-801U2"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-800TG"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-SCX2"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-700HB"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-800WB"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-751FK"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-620FL"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-801FE"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-804FU"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-751MK"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-620LH"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-800B1"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-801U1"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-751TL"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-751C1"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-620B2"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-801U2"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-800TG"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-SCX2"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-700HB"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-800WB"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-751FK"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-620FL"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FE803"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-FU803"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-751MK"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-620LH"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-800B1"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-801U1"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-751TL"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-751C1"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-620B2"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-801U2"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-800TG"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "BP-SC11"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-700HB"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-800WB"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-751FK"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-620FL"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FE803"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-FU803"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-751MK"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-620LH"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-800B1"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-801U1"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-751TL"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-751C1"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-620B2"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-801U2"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-800TG"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "BP-SC11"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-700HB"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-800WB"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C35TB"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C35TC"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C35TM"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C35TY"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C35DU-B"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C35DU-S"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C40KA"
+  },
+  {
+    "model_id": "MX-C407P",
+    "accessory_id": "MX-C40HB"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TB"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TB-B"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TC"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TC-B"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TM"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TM-B"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TY"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36TY-B"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36DU-B"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C36DU-S"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C41KA"
+  },
+  {
+    "model_id": "MX-C428P",
+    "accessory_id": "MX-C41HB"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C53TB"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C53TC"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C53TM"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C53TY"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C51FK"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C51HB"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "BP-XT200"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "BP-XT201"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-X240",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "BP-XT200"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "BP-XT201"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312DU"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312MR"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312RT"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312KA"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-312UH"
+  },
+  {
+    "model_id": "BP-X310",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-FT300"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-FT301"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-30M28",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-FT300"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-FT301"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-30M31",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-FT300"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-FT301"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-FV200"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-312FR"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-FU201"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-LH200"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "BP-TF200"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-312TX"
+  },
+  {
+    "model_id": "BP-30M35",
+    "accessory_id": "MX-313UH"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-50M31",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-50M36",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-50M45",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-50M55",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-50M65",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-51M31",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-51M36",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-51M45",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-51M55",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-51M65",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-70M45",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-70M55",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FT700"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FB703"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FU703"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-LH700"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70M65",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-71M55",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FT701"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FV700"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DR700"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-DU700"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-RK701"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "MX-609FK"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FB706"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-FU707"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-LH702"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "AR-SC2"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-SC10"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-HB701"
+  },
+  {
+    "model_id": "BP-71M65",
+    "accessory_id": "BP-TB701"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-FT705"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-FV705"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-754DR"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-754FL"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-FU902"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-FU903"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-HK900"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "BP-HK901"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-754MK"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-SCX2"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-700HB"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-754TT"
+  },
+  {
+    "model_id": "BP-70M75",
+    "accessory_id": "MX-754WB"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-FT705"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-FV705"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-754DR"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-754FL"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-FU902"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-FU903"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-HK900"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "BP-HK901"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-754MK"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-SC11"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-SC12"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-SCX1"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-SCX2"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-700HB"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-754TT"
+  },
+  {
+    "model_id": "BP-70M90",
+    "accessory_id": "MX-754WB"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-80FT-BA"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-80FT-CA"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-80FT-MA"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-80FT-YA"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-62FV-BA"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-62FV-SA"
+  },
+  {
+    "model_id": "MX-7081",
+    "accessory_id": "MX-62FR-SA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-80FT-BA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-80FT-CA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-80FT-MA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-80FT-YA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-62FV-BA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-62FV-SA"
+  },
+  {
+    "model_id": "MX-8081",
+    "accessory_id": "MX-62FR-SA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-80FT-BA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-80FT-CA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-80FT-MA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-80FT-YA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-62FV-BA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-62FV-SA"
+  },
+  {
+    "model_id": "BP-80C70",
+    "accessory_id": "MX-62FR-SA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-80FT-BA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-80FT-CA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-80FT-MA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-80FT-YA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-62FV-BA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-62FV-SA"
+  },
+  {
+    "model_id": "BP-80C80",
+    "accessory_id": "MX-62FR-SA"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-C10FT-BA"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-C10FT-CA"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-C10FT-MA"
+  },
+  {
+    "model_id": "BP-C131PW",
+    "accessory_id": "BP-C10FT-YA"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C52DU-BS"
+  },
+  {
+    "model_id": "MX-C528P",
+    "accessory_id": "MX-C52DU-SS"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-C10FT-BA"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-C10FT-CA"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-C10FT-MA"
+  },
+  {
+    "model_id": "BP-C131WD",
+    "accessory_id": "BP-C10FT-YA"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-C50FT-BA"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-C50FT-CA"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-C50FT-MA"
+  },
+  {
+    "model_id": "BP-C533WR",
+    "accessory_id": "BP-C50FT-YA"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-C50FT-BA"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-C50FT-CA"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-C50FT-MA"
+  },
+  {
+    "model_id": "BP-C533WD",
+    "accessory_id": "BP-C50FT-YA"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-C50FT-BA"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-C50FT-CA"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-C50FT-MA"
+  },
+  {
+    "model_id": "BP-C542WD",
+    "accessory_id": "BP-C50FT-YA"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C52DU-BS"
+  },
+  {
+    "model_id": "MX-C428F",
+    "accessory_id": "MX-C52DU-SS"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C52DU-BS"
+  },
+  {
+    "model_id": "MX-C528F",
+    "accessory_id": "MX-C52DU-SS"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FN12"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FN13"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FN14"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FN15"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FN16"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FR12UL"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-FX11"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-LC10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-RB10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-SD10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-TR12"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-UT10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "BP-VD10L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-AMX1L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-EB19L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-EB20L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-FWX1L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-LT10"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PF10L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PK13L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN14B"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN14C"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN14D"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN15B"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN15C"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN15D"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN16B"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN16C"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PN16D"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-PU10L"
+  },
+  {
+    "model_id": "BP-50C65",
+    "accessory_id": "MX-TR20N"
+  }
+]

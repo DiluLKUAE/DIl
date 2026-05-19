@@ -1,0 +1,715 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sharp Configurator Standalone Demo</title>
+    <style>
+      :root {
+        --bg: #f4f5f7;
+        --panel: #ffffff;
+        --ink: #18181b;
+        --muted: #626771;
+        --line: #d9dde4;
+        --red: #b91c1c;
+        --red-dark: #991b1b;
+        --green: #047857;
+        --amber: #b45309;
+        --sky: #0369a1;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      header {
+        background: var(--panel);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .topbar {
+        max-width: 1320px;
+        margin: 0 auto;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+      }
+
+      .brand-mark {
+        width: 44px;
+        height: 44px;
+        border-radius: 8px;
+        display: grid;
+        place-items: center;
+        background: var(--red);
+        color: #fff;
+        font-weight: 800;
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        margin-bottom: 4px;
+        font-size: 23px;
+        line-height: 1.2;
+      }
+
+      .subtitle,
+      p,
+      li {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.55;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        border-radius: 999px;
+        border: 1px solid #bbf7d0;
+        background: #f0fdf4;
+        color: var(--green);
+        padding: 8px 12px;
+        font-size: 13px;
+        font-weight: 700;
+        white-space: nowrap;
+      }
+
+      main {
+        max-width: 1320px;
+        margin: 0 auto;
+        padding: 20px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 360px;
+        gap: 18px;
+      }
+
+      .panel,
+      .summary {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+      }
+
+      .panel {
+        padding: 18px;
+      }
+
+      .summary {
+        position: sticky;
+        top: 18px;
+        align-self: start;
+        padding: 18px;
+      }
+
+      .intro {
+        display: grid;
+        grid-template-columns: 1.2fr 0.8fr;
+        gap: 18px;
+        margin-bottom: 18px;
+      }
+
+      label {
+        display: block;
+        color: #3f444d;
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      select,
+      textarea {
+        width: 100%;
+        margin-top: 8px;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+      }
+
+      select {
+        min-height: 44px;
+        padding: 0 12px;
+      }
+
+      textarea {
+        min-height: 110px;
+        padding: 10px;
+        resize: vertical;
+      }
+
+      .model-card {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 14px;
+      }
+
+      .model-card h2 {
+        margin-bottom: 4px;
+        font-size: 24px;
+      }
+
+      .specs {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px;
+        margin-top: 12px;
+      }
+
+      .spec {
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 10px;
+      }
+
+      .spec strong {
+        display: block;
+        margin-top: 4px;
+      }
+
+      .guide {
+        border: 1px solid #fde68a;
+        border-radius: 8px;
+        background: #fffbeb;
+        padding: 14px;
+      }
+
+      .guide h2,
+      .group h2,
+      .summary h2 {
+        margin-bottom: 10px;
+        font-size: 16px;
+      }
+
+      .guide ol {
+        margin: 0;
+        padding-left: 20px;
+      }
+
+      .groups {
+        display: grid;
+        gap: 18px;
+      }
+
+      .group {
+        border-top: 1px solid var(--line);
+        padding-top: 18px;
+      }
+
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+
+      button.card {
+        min-height: 132px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+        color: inherit;
+        text-align: left;
+        padding: 14px;
+        cursor: pointer;
+        transition:
+          border-color 0.15s ease,
+          background 0.15s ease,
+          opacity 0.15s ease;
+      }
+
+      button.card:hover {
+        border-color: #8b929e;
+        background: #fafafa;
+      }
+
+      button.card.selected {
+        border-color: var(--red);
+        background: #fef2f2;
+      }
+
+      button.card:disabled {
+        cursor: not-allowed;
+        opacity: 0.48;
+      }
+
+      .card-head {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 8px;
+      }
+
+      .code {
+        font-weight: 800;
+      }
+
+      .tag {
+        border-radius: 999px;
+        padding: 4px 7px;
+        background: #fee2e2;
+        color: var(--red-dark);
+        font-size: 11px;
+        font-weight: 800;
+      }
+
+      .card-name {
+        margin-top: 8px;
+        color: #3f444d;
+        font-size: 14px;
+        line-height: 1.45;
+      }
+
+      .rule {
+        margin-top: 10px;
+        border-top: 1px solid var(--line);
+        padding-top: 10px;
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.45;
+      }
+
+      .message {
+        border: 1px solid;
+        border-radius: 7px;
+        padding: 10px;
+        font-size: 13px;
+        line-height: 1.45;
+      }
+
+      .message + .message {
+        margin-top: 8px;
+      }
+
+      .success {
+        border-color: #bbf7d0;
+        background: #f0fdf4;
+        color: var(--green);
+      }
+
+      .warning {
+        border-color: #fde68a;
+        background: #fffbeb;
+        color: #92400e;
+      }
+
+      .error {
+        border-color: #fecaca;
+        background: #fef2f2;
+        color: var(--red-dark);
+      }
+
+      .info {
+        border-color: #bae6fd;
+        background: #f0f9ff;
+        color: var(--sky);
+      }
+
+      .summary-section {
+        border-top: 1px solid var(--line);
+        margin-top: 16px;
+        padding-top: 14px;
+      }
+
+      .list {
+        display: grid;
+        gap: 8px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .list li {
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 9px;
+        color: #3f444d;
+      }
+
+      .actions {
+        display: grid;
+        gap: 10px;
+        margin-top: 14px;
+      }
+
+      .primary {
+        min-height: 42px;
+        border: 0;
+        border-radius: 6px;
+        background: var(--red);
+        color: #fff;
+        font-weight: 800;
+        cursor: pointer;
+      }
+
+      .primary:disabled {
+        background: #d4d4d8;
+        color: #71717a;
+        cursor: not-allowed;
+      }
+
+      @media (max-width: 980px) {
+        main,
+        .intro {
+          grid-template-columns: 1fr;
+        }
+
+        .summary {
+          position: static;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .topbar {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        main,
+        .topbar {
+          padding-left: 14px;
+          padding-right: 14px;
+        }
+
+        .cards,
+        .specs {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="topbar">
+        <div class="brand">
+          <div class="brand-mark">SC</div>
+          <div>
+            <h1>Sharp Photocopier Configurator Demo</h1>
+            <p class="subtitle">Standalone team demo. No server, internet, or localhost required.</p>
+          </div>
+        </div>
+        <div class="badge">Offline HTML Demo</div>
+      </div>
+    </header>
+
+    <main>
+      <div>
+        <div class="intro">
+          <section class="panel">
+            <label for="modelSelect">Select model manually</label>
+            <select id="modelSelect"></select>
+
+            <div class="model-card" style="margin-top: 14px">
+              <p style="margin-bottom: 4px">Main Unit</p>
+              <h2 id="modelName"></h2>
+              <p id="modelDescription"></p>
+              <div class="specs">
+                <div class="spec">
+                  <p>Brand</p>
+                  <strong id="modelBrand"></strong>
+                </div>
+                <div class="spec">
+                  <p>Type</p>
+                  <strong id="modelType"></strong>
+                </div>
+                <div class="spec">
+                  <p>Engine speed</p>
+                  <strong id="modelSpeed"></strong>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="guide">
+            <h2>How The System Works</h2>
+            <ol>
+              <li>Choose a copier model.</li>
+              <li>Select accessories from the available categories.</li>
+              <li>The system checks required options and conflicts.</li>
+              <li>The summary shows whether the configuration is valid.</li>
+              <li>Use the notes area to collect team feedback.</li>
+            </ol>
+          </section>
+        </div>
+
+        <section class="panel">
+          <div id="messages"></div>
+          <div id="groups" class="groups"></div>
+        </section>
+
+        <section class="panel" style="margin-top: 18px">
+          <h2>Team Feedback Notes</h2>
+          <p>Use this area during review, then paste the notes into email, chat, or a ticket.</p>
+          <textarea placeholder="Model tested, missing accessories, rule issues, PDF comments, suggested improvements..."></textarea>
+        </section>
+      </div>
+
+      <aside class="summary">
+        <h2>Configuration Summary</h2>
+        <div id="statusMessage"></div>
+
+        <div class="actions">
+          <button id="demoPdfButton" class="primary" type="button">Demo PDF Action</button>
+        </div>
+
+        <div class="summary-section">
+          <h3>Selected Accessories</h3>
+          <ul id="selectedList" class="list"></ul>
+        </div>
+
+        <div class="summary-section">
+          <h3>Packaged Consumables</h3>
+          <ul id="packagedList" class="list"></ul>
+        </div>
+
+        <div class="summary-section">
+          <h3>Review Focus</h3>
+          <ul class="list">
+            <li>Check if model accessories are complete.</li>
+            <li>Confirm required accessories and blocked combinations.</li>
+            <li>Review wording of warning messages.</li>
+            <li>Confirm the final summary is useful for sales or operations.</li>
+          </ul>
+        </div>
+      </aside>
+    </main>
+
+    <script>
+      const models = [
+        { id: "BP-50C65", brand: "Sharp", series: "Titan (RSPF2)", type: "A3 Color MFP", speed: 65 },
+        { id: "BP-70C65", brand: "Sharp", series: "Atlas (DSPF2)", type: "A3 Color MFP", speed: 65 },
+        { id: "BP-50M65", brand: "Sharp", series: "B-Titan (RSPF2)", type: "A3 B/W MFP", speed: 65 },
+        { id: "MX-8081", brand: "Sharp", series: "Polaris3", type: "Production Color MFP", speed: 80 }
+      ];
+
+      const accessories = [
+        { id: "BP-DE12", name: "Stand with 550-Sheet Paper Drawer", category: "Paper Drawers / Stands" },
+        { id: "BP-DE13", name: "Stand with 2 x 550-Sheet Paper Drawers", category: "Paper Drawers / Stands" },
+        { id: "BP-DE14", name: "Stand with 3 x 550-Sheet Paper Drawers", category: "Paper Drawers / Stands" },
+        { id: "BP-DE15", name: "Stand with 550 + 2100-Sheet Paper Drawer", category: "Paper Drawers / Stands" },
+        { id: "BP-LC10", name: "Large Capacity Tray", category: "Paper Drawers / Stands" },
+        { id: "BP-FN13", name: "Finisher", category: "Finishers" },
+        { id: "BP-FN14", name: "Saddle Stitch Finisher", category: "Finishers" },
+        { id: "BP-FN15", name: "Finisher", category: "Finishers" },
+        { id: "BP-FN16", name: "Saddle Stitch Finisher", category: "Finishers" },
+        { id: "BP-RB10", name: "Paper Pass Unit", category: "Output / Paper Pass" },
+        { id: "BP-FD10", name: "Folding Unit", category: "Folding Units" },
+        { id: "MX-PN14B", name: "Punch Module - 2/3 Holes", category: "Punch Modules" },
+        { id: "MX-PN15B", name: "Punch Module - 2/3 Holes", category: "Punch Modules" },
+        { id: "BP-FR12U", name: "Data Security Kit", category: "Storage / Security" },
+        { id: "BP-FT50BA", name: "Toner Cartridge Black", category: "Consumables" },
+        { id: "BP-FT50CA", name: "Toner Cartridge Cyan", category: "Consumables" },
+        { id: "MX-PE16", name: "Fiery Print Server", category: "Connectivity / Expansion" },
+        { id: "MX-RB26", name: "Relay Unit", category: "Output / Paper Pass" },
+        { id: "MX-FN34", name: "Production Finisher", category: "Finishers" },
+        { id: "MX-FN35", name: "Production Saddle Stitch Finisher", category: "Finishers" },
+        { id: "MX-PN21A", name: "Production Punch Module", category: "Punch Modules" }
+      ];
+
+      const modelAccessories = {
+        "BP-50C65": ["BP-DE12", "BP-DE13", "BP-DE14", "BP-DE15", "BP-LC10", "BP-FN13", "BP-FN14", "BP-FN15", "BP-FN16", "BP-RB10", "BP-FD10", "MX-PN14B", "MX-PN15B", "BP-FR12U", "BP-FT50BA", "BP-FT50CA"],
+        "BP-70C65": ["BP-DE12", "BP-DE13", "BP-DE14", "BP-DE15", "BP-LC10", "BP-FN13", "BP-FN14", "BP-FN15", "BP-FN16", "BP-RB10", "BP-FD10", "MX-PN14B", "MX-PN15B", "BP-FR12U", "BP-FT50BA", "BP-FT50CA"],
+        "BP-50M65": ["BP-DE12", "BP-DE13", "BP-DE14", "BP-DE15", "BP-LC10", "BP-FN15", "BP-FN16", "BP-RB10", "BP-FD10", "MX-PN15B", "BP-FR12U", "BP-FT50BA"],
+        "MX-8081": ["MX-PE16", "MX-RB26", "MX-FN34", "MX-FN35", "MX-PN21A", "BP-FR12U", "BP-FT50BA", "BP-FT50CA"]
+      };
+
+      const packagedItems = {
+        "BP-50C65": ["Starter toner: Installed", "Developer: Not bundled"],
+        "BP-70C65": ["Starter toner: Installed", "Developer: Not bundled"],
+        "BP-50M65": ["Black toner: Installed", "Developer: Not bundled"],
+        "MX-8081": ["Production starter kit: Installed", "Staples: Not bundled"]
+      };
+
+      const categoryOrder = [
+        "Paper Drawers / Stands",
+        "Finishers",
+        "Punch Modules",
+        "Folding Units",
+        "Output / Paper Pass",
+        "Connectivity / Expansion",
+        "Storage / Security",
+        "Consumables"
+      ];
+
+      const ruleText = {
+        "BP-LC10": "Requires one paper drawer or stand.",
+        "BP-FN13": "Requires BP-RB10 or BP-FD10, and one paper drawer or stand.",
+        "BP-FN14": "Requires BP-RB10 or BP-FD10, and one paper drawer or stand.",
+        "BP-FN15": "Requires BP-RB10 or BP-FD10, and one paper drawer or stand.",
+        "BP-FN16": "Requires BP-RB10 or BP-FD10, and one paper drawer or stand.",
+        "BP-FD10": "Requires BP-RB10.",
+        "MX-PN14B": "Requires BP-FN13 or BP-FN14.",
+        "MX-PN15B": "Requires BP-FN15 or BP-FN16.",
+        "MX-PN21A": "Requires MX-FN34 or MX-FN35.",
+        "MX-FN34": "Requires MX-RB26 relay unit.",
+        "MX-FN35": "Requires MX-RB26 relay unit."
+      };
+
+      const groups = [
+        { ids: ["BP-DE12", "BP-DE13", "BP-DE14", "BP-DE15"], max: 1, message: "Choose only one paper drawer or stand." },
+        { ids: ["BP-FN13", "BP-FN14", "BP-FN15", "BP-FN16"], max: 1, message: "Choose only one finisher." },
+        { ids: ["MX-FN34", "MX-FN35"], max: 1, message: "Choose only one production finisher." }
+      ];
+
+      let selectedModelId = models[0].id;
+      let selected = new Set();
+
+      const byId = (id) => accessories.find((accessory) => accessory.id === id);
+
+      function requirementGroups(id) {
+        if (id === "BP-LC10") return [["BP-DE12", "BP-DE13", "BP-DE14", "BP-DE15"]];
+        if (["BP-FN13", "BP-FN14", "BP-FN15", "BP-FN16"].includes(id)) return [["BP-RB10", "BP-FD10"], ["BP-DE12", "BP-DE13", "BP-DE14", "BP-DE15"]];
+        if (id === "BP-FD10") return [["BP-RB10"]];
+        if (id === "MX-PN14B") return [["BP-FN13", "BP-FN14"]];
+        if (id === "MX-PN15B") return [["BP-FN15", "BP-FN16"]];
+        if (id === "MX-PN21A") return [["MX-FN34", "MX-FN35"]];
+        if (["MX-FN34", "MX-FN35"].includes(id)) return [["MX-RB26"]];
+        return [];
+      }
+
+      function validate() {
+        const compatible = new Set(modelAccessories[selectedModelId]);
+        const messages = [];
+        const conflicts = [];
+
+        for (const id of selected) {
+          for (const group of requirementGroups(id)) {
+            const compatibleGroup = group.filter((item) => compatible.has(item));
+            if (compatibleGroup.length > 0 && !compatibleGroup.some((item) => selected.has(item))) {
+              messages.push(ruleText[id]);
+            }
+          }
+        }
+
+        for (const group of groups) {
+          const selectedInGroup = group.ids.filter((id) => selected.has(id));
+          if (selectedInGroup.length > group.max) {
+            conflicts.push(group.message);
+          }
+        }
+
+        return { messages: [...new Set(messages)], conflicts: [...new Set(conflicts)], isValid: messages.length === 0 && conflicts.length === 0 };
+      }
+
+      function disabledReason(id) {
+        for (const group of groups) {
+          if (!group.ids.includes(id) || selected.has(id)) continue;
+          const selectedInGroup = group.ids.filter((item) => selected.has(item));
+          if (selectedInGroup.length >= group.max) return group.message;
+        }
+        return "";
+      }
+
+      function render() {
+        const model = models.find((item) => item.id === selectedModelId);
+        const compatibleIds = modelAccessories[selectedModelId];
+        const compatibleAccessories = compatibleIds.map(byId);
+        const validation = validate();
+
+        document.getElementById("modelName").textContent = model.id;
+        document.getElementById("modelDescription").textContent = `${model.series} - ${model.type}`;
+        document.getElementById("modelBrand").textContent = model.brand;
+        document.getElementById("modelType").textContent = model.type;
+        document.getElementById("modelSpeed").textContent = `${model.speed} ppm`;
+
+        const messages = document.getElementById("messages");
+        messages.innerHTML = "";
+        if (validation.messages.length === 0 && validation.conflicts.length === 0) {
+          messages.innerHTML = '<div class="message success">Configuration is valid.</div>';
+        } else {
+          validation.messages.forEach((message) => messages.insertAdjacentHTML("beforeend", `<div class="message warning">${message}</div>`));
+          validation.conflicts.forEach((message) => messages.insertAdjacentHTML("beforeend", `<div class="message error">${message}</div>`));
+        }
+
+        const groupRoot = document.getElementById("groups");
+        groupRoot.innerHTML = "";
+        for (const category of categoryOrder) {
+          const items = compatibleAccessories.filter((accessory) => accessory.category === category);
+          if (items.length === 0) continue;
+          const section = document.createElement("section");
+          section.className = "group";
+          section.innerHTML = `<h2>${category}</h2><div class="cards"></div>`;
+          const cards = section.querySelector(".cards");
+
+          for (const accessory of items) {
+            const reason = disabledReason(accessory.id);
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = `card${selected.has(accessory.id) ? " selected" : ""}`;
+            button.disabled = Boolean(reason);
+            button.innerHTML = `
+              <div class="card-head">
+                <span class="code">${accessory.id}</span>
+                ${selected.has(accessory.id) ? '<span class="tag">Selected</span>' : ""}
+              </div>
+              <div class="card-name">${accessory.name}</div>
+              <div class="rule">${reason || ruleText[accessory.id] || "No additional dependency rules."}</div>
+            `;
+            button.addEventListener("click", () => {
+              if (selected.has(accessory.id)) selected.delete(accessory.id);
+              else selected.add(accessory.id);
+              render();
+            });
+            cards.appendChild(button);
+          }
+
+          groupRoot.appendChild(section);
+        }
+
+        document.getElementById("statusMessage").innerHTML = validation.isValid
+          ? '<div class="message success">Configuration is valid.</div>'
+          : '<div class="message warning">Configuration needs attention before it is complete.</div>';
+        document.getElementById("demoPdfButton").disabled = !validation.isValid;
+
+        const selectedList = document.getElementById("selectedList");
+        selectedList.innerHTML = "";
+        if (selected.size === 0) {
+          selectedList.innerHTML = "<li>No accessories selected.</li>";
+        } else {
+          Array.from(selected).map(byId).forEach((accessory) => {
+            selectedList.insertAdjacentHTML("beforeend", `<li><strong>${accessory.id}</strong><br />${accessory.name}</li>`);
+          });
+        }
+
+        const packagedList = document.getElementById("packagedList");
+        packagedList.innerHTML = packagedItems[selectedModelId].map((item) => `<li>${item}</li>`).join("");
+      }
+
+      document.getElementById("modelSelect").innerHTML = models
+        .map((model) => `<option value="${model.id}">${model.id} - ${model.type} - ${model.speed} ppm</option>`)
+        .join("");
+
+      document.getElementById("modelSelect").addEventListener("change", (event) => {
+        selectedModelId = event.target.value;
+        selected = new Set();
+        render();
+      });
+
+      document.getElementById("demoPdfButton").addEventListener("click", () => {
+        alert("In the live app, this button downloads a PDF configuration summary.");
+      });
+
+      render();
+    </script>
+  </body>
+</html>
